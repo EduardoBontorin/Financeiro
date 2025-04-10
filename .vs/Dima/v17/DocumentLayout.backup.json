@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Dima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\endpoints\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\common\\api\\appextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\common\\api\\appextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\common\\api\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\common\\api\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|c:\\dev\\dima\\dima.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7d1a5679-04f2-3f4a-851f-855baa54731c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Endpoint.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Endpoint.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Endpoint.cs",
+              "RelativeToolTip": "Dima.Api\\Endpoints\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:56:30.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppExtension.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Common\\Api\\AppExtension.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Common\\Api\\AppExtension.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Common\\Api\\AppExtension.cs",
+              "RelativeToolTip": "Dima.Api\\Common\\Api\\AppExtension.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:49:52.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Core\\Configuration.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Configuration.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Core\\Configuration.cs",
+              "RelativeToolTip": "Dima.Core\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:29:10.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuilderExtensions.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "RelativeToolTip": "Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:26:29.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
