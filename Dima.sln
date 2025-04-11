@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dima.Core", "Dima.core\Dima
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dima.Api", "Dima.Api\Dima.Api.csproj", "{512E8006-176F-4D79-9E53-902FB97F6D98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dima.Web", "Dima.Web\Dima.Web.csproj", "{904B17DF-6996-4094-B98C-5ACE0824C080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		{512E8006-176F-4D79-9E53-902FB97F6D98}.Release|x64.Build.0 = Release|Any CPU
 		{512E8006-176F-4D79-9E53-902FB97F6D98}.Release|x86.ActiveCfg = Release|Any CPU
 		{512E8006-176F-4D79-9E53-902FB97F6D98}.Release|x86.Build.0 = Release|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Debug|x64.Build.0 = Debug|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Debug|x86.Build.0 = Debug|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Release|x64.ActiveCfg = Release|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Release|x64.Build.0 = Release|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Release|x86.ActiveCfg = Release|Any CPU
+		{904B17DF-6996-4094-B98C-5ACE0824C080}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +64,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303} = {1A53980B-16DD-77A0-E5C1-AA49B08E1600}
 		{512E8006-176F-4D79-9E53-902FB97F6D98} = {1A53980B-16DD-77A0-E5C1-AA49B08E1600}
+		{904B17DF-6996-4094-B98C-5ACE0824C080} = {1A53980B-16DD-77A0-E5C1-AA49B08E1600}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {369F7166-EF50-4282-AF1F-B772E2735F28}

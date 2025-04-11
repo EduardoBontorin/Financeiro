@@ -172,3 +172,4 @@ C:\dev\Dima\Dima.Api\obj\Release\net9.0\refint\Dima.Api.dll
 C:\dev\Dima\Dima.Api\obj\Release\net9.0\Dima.Api.pdb
 C:\dev\Dima\Dima.Api\obj\Release\net9.0\Dima.Api.genruntimeconfig.cache
 C:\dev\Dima\Dima.Api\obj\Release\net9.0\ref\Dima.Api.dll
+C:\dev\Dima\Dima.Api\obj\Release\net9.0\Dima.Api.sourcelink.json

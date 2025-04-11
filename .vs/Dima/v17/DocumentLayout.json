@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\dev\\Dima\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\layout\\headlesslayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\layout\\headlesslayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{7d1a5679-04f2-3f4a-851f-855baa54731c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Dima.Web\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T15:24:53.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Configuration.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Configuration.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Configuration.cs",
+              "RelativeToolTip": "Dima.Web\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:04:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeadlessLayout.razor",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Layout\\HeadlessLayout.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Layout\\HeadlessLayout.razor",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Layout\\HeadlessLayout.razor",
+              "RelativeToolTip": "Dima.Web\\Layout\\HeadlessLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T14:35:24.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Dima.Web\\wwwroot\\index.html",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\index.html",
+              "RelativeToolTip": "Dima.Web\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-11T14:31:21.389Z",
+              "EditorCaption": ""
             }
           ]
         }
