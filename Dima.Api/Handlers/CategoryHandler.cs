@@ -59,7 +59,7 @@ namespace Dima.Api.Handlers
             }
         }
 
-        public async Task<PagedResponse<List<Category>?>> GetAllAsync(GetAllCategoriesRequest request)
+        public async Task<PagedResponse<List<Category>>> GetAllAsync(GetAllCategoriesRequest request)
         {
             try 
             {
@@ -71,11 +71,11 @@ namespace Dima.Api.Handlers
 
                 var count = await query.CountAsync();
 
-                return new PagedResponse<List<Category>?>(categories, count, request.PageNumber, request.PageSize);
+                return new PagedResponse<List<Category>>(categories, count, request.PageNumber, request.PageSize);
             }
             catch (Exception ex)
             {
-                return new PagedResponse<List<Category>?>(null,500,$"Falha ao obter categorias {ex.Message}");
+                return new PagedResponse<List<Category>>(null,500,$"Falha ao obter categorias {ex.Message}");
             }
         }
         public async Task<Response<Category?>> GetByIdAsync(GetCategoryByIdRequest request)
@@ -103,7 +103,7 @@ namespace Dima.Api.Handlers
 
                 if (category is null)
                 {
-                    return new Response<Category>(null, 404, "Categoria não encontrada");
+                    return new Response<Category?>(null, 404, "Categoria não encontrada");
                 }
                 category.Title = request.Title;
                 category.Description = request.Description;
@@ -115,7 +115,7 @@ namespace Dima.Api.Handlers
             }
             catch (Exception ex) //TODO: Adicionar Serilog
             {
-                return new Response<Category>(null, 500, $"Falha ao atualizar Categoria: {ex.Message}");
+                return new Response<Category?>(null, 500, $"Falha ao atualizar Categoria: {ex.Message}");
             }
         }
     }

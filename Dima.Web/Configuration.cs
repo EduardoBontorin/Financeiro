@@ -1,10 +1,14 @@
 ﻿using MudBlazor.Utilities;
 using MudBlazor;
+using static System.Net.WebRequestMethods;
 
 namespace Dima.Web
 {
     public static class Configuration
     {
+        public const string HttpClientName = "dima";
+        public static string BackednUrl { get; set; } = "http://localhost:5015";
+
         public static MudTheme Theme = new()
         {
             Typography = new Typography()

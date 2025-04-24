@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\dev\\Dima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\endpoints\\categories\\createcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\categories\\createcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|c:\\dev\\dima\\dima.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|c:\\dev\\dima\\dima.core\\responses\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\responses\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|c:\\dev\\dima\\dima.core\\requests\\pagedbaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\requests\\pagedbaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|c:\\dev\\dima\\dima.core\\requests\\baserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\requests\\baserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|c:\\dev\\dima\\dima.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|c:\\dev\\dima\\dima.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDEE6F4-A9B1-4F4B-BE27-2E11DC6C9303}|Dima.core\\Dima.Core.csproj|solutionrelative:dima.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\layout\\headlesslayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,8 +43,8 @@
       "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +63,109 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Dima.Web\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Dima.Web\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T15:24:53.894Z",
+              "Title": "CreateCategoryEndpoint.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "RelativeToolTip": "Dima.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:27:36.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Core\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Responses\\Response.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Core\\Responses\\Response.cs",
+              "RelativeToolTip": "Dima.Core\\Responses\\Response.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:25:00.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Core\\Responses\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Responses\\PagedResponse.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Core\\Responses\\PagedResponse.cs",
+              "RelativeToolTip": "Dima.Core\\Responses\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:24:57.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagedBaseRequest.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Core\\Requests\\PagedBaseRequest.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Requests\\PagedBaseRequest.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Core\\Requests\\PagedBaseRequest.cs",
+              "RelativeToolTip": "Dima.Core\\Requests\\PagedBaseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:24:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRequest.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Core\\Requests\\BaseRequest.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Requests\\BaseRequest.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Core\\Requests\\BaseRequest.cs",
+              "RelativeToolTip": "Dima.Core\\Requests\\BaseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:24:52.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Core\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Models\\Transaction.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Core\\Models\\Transaction.cs",
+              "RelativeToolTip": "Dima.Core\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:24:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Dima.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Core\\Models\\Category.cs",
+              "RelativeToolTip": "Dima.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:24:29.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Dima.Web\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T15:24:53.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Configuration.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Configuration.cs",
@@ -55,31 +173,29 @@
               "RelativeToolTip": "Dima.Web\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T15:04:37.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T15:04:37.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "HeadlessLayout.razor",
               "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Layout\\HeadlessLayout.razor",
               "RelativeDocumentMoniker": "Dima.Web\\Layout\\HeadlessLayout.razor",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Layout\\HeadlessLayout.razor*",
-              "RelativeToolTip": "Dima.Web\\Layout\\HeadlessLayout.razor*",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Layout\\HeadlessLayout.razor",
+              "RelativeToolTip": "Dima.Web\\Layout\\HeadlessLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T14:35:24.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T14:35:24.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Dima.Web\\wwwroot\\index.html",
               "ToolTip": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\index.html",
               "RelativeToolTip": "Dima.Web\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-11T14:31:21.389Z",
               "EditorCaption": ""

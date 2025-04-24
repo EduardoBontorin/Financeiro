@@ -155,6 +155,7 @@ C:\dev\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.AssemblyInfo.cs
 C:\dev\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.csproj.CoreCompileInputs.cache
 C:\dev\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Dima\Dima.Api\obj\Debug\net9.0\Dima.Api.sourcelink.json
 C:\dev\Dima\Dima.Api\obj\Debug\net9.0\scopedcss\bundle\Dima.Api.styles.css
 C:\dev\Dima\Dima.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\dev\Dima\Dima.Api\obj\Debug\net9.0\staticwebassets.development.json

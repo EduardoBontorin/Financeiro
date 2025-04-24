@@ -132,7 +132,7 @@ namespace Dima.Api.Handlers
             }
             catch (Exception ex)
             {
-                return new Response<Transaction?>(null, 500, "Não foi possível atualizar a transação");
+                return new Response<Transaction?>(null, 500, $"Não foi possível atualizar a transação {ex.Message}");
             }
         }
     }
