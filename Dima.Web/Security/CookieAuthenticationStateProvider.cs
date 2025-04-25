@@ -1,7 +1,4 @@
-﻿using Dima.Core
-
-
-
+﻿
 using Dima.Core.Models.Account;
 using Microsoft.AspNetCore.Components.Authorization;
 using System.Net.Http.Json;
@@ -54,10 +51,11 @@ namespace Dima.Web.Security
         }
         private async Task<List<Claim>> GetClaims(User user) 
         {
-            var claims = new List<Claim>() 
+            var claims = new List<Claim>()
             {
                 new (ClaimTypes.Name,user.Email),
                 new (ClaimTypes.Email,user.Email)
+                
             };
 
             claims.AddRange(
@@ -85,7 +83,6 @@ namespace Dima.Web.Security
             return claims;
 
         }
-
         public void NotifyAuthenticationStateChanged() =>
             NotifyAuthenticationStateChanged(GetAuthenticationStateAsync());
 

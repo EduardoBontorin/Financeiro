@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1HTQJJC/lrE=",
+  "dgSpecHash": "q88981KBTeU=",
   "success": true,
-  "projectFilePath": "C:\\dev\\Dima\\Dima.Web\\Dima.Web.csproj",
+  "projectFilePath": "C:\\dev\\Dima\\dima.web\\Dima.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.4\\microsoft.aspnetcore.authorization.9.0.4.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.4\\microsoft.aspnetcore.components.9.0.4.nupkg.sha512",
@@ -37,9 +37,9 @@
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.jsinterop\\9.0.4\\microsoft.jsinterop.9.0.4.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.2\\microsoft.jsinterop.webassembly.9.0.2.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
-    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.2\\microsoft.net.sdk.webassembly.pack.9.0.2.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.4\\microsoft.net.sdk.webassembly.pack.9.0.4.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.5.1\\mudblazor.8.5.1.nupkg.sha512",
-    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.2.nupkg.sha512"
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.4\\microsoft.netcore.app.ref.9.0.4.nupkg.sha512"
   ],
   "logs": []
 }

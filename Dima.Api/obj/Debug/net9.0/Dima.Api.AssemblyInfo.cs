@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dima.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9581c3646a74aeaae80738c392e522d8ebb7b68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29dfefec57cecb07a853821e8405e8179fc18058")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dima.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dima.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
