@@ -10,6 +10,8 @@ namespace Dima.Core.Models.Account
     {
         //v1/identity/manage/info
         //TODO: Adicionar nome do Usuario
+        //TODO: Adicionar validação de email
+        //TODO: Adicionar validação de senha.
 
         public string Email { get; set; } = string.Empty;
         public bool IsEmailConfirmed { get; set; }

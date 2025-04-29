@@ -67,6 +67,4 @@ namespace Dima.Api.Common.Api
             builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
         }
     }
-
-   
 }

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Dima.Web",
   "resources": {
-    "hash": "sha256-c0Bv4NtTIo+ALhHpZSGopflEj+gvA9hpT767fgvXEbY=",
+    "hash": "sha256-Nn8fnBfaeujke0Wc+NakZuBY54HkfzVHrhcsq6v9QWw=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.v3fd2n5hlr.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -207,13 +207,11 @@
       "dotnet.native.hvg7u8bimp.js": "dotnet.native.js",
       "dotnet.native.3c4wvb350q.wasm": "dotnet.native.wasm",
       "dotnet.runtime.cymp1amu5g.js": "dotnet.runtime.js",
-      "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
-      "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
-      "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Dima.Core.27mlxhmp6c.wasm": "Dima.Core.wasm",
-      "Dima.Core.ks9ymd8u5b.pdb": "Dima.Core.pdb",
-      "Dima.Web.wvb12ekmxy.wasm": "Dima.Web.wasm",
-      "Dima.Web.7w9d9no3mh.pdb": "Dima.Web.pdb"
+      "icudt.oh1zvcfom8.dat": "icudt.dat",
+      "Dima.Core.qlxwcq9d33.wasm": "Dima.Core.wasm",
+      "Dima.Core.iypd0l5vyr.pdb": "Dima.Core.pdb",
+      "Dima.Web.3qp846hzza.wasm": "Dima.Web.wasm",
+      "Dima.Web.aoxqo71t3b.pdb": "Dima.Web.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -225,9 +223,7 @@
       "dotnet.native.3c4wvb350q.wasm": "sha256-89jyB8DlCnV2BPMV477jOe1Sm0WXwVf8RuoSPsj4Ym8="
     },
     "icu": {
-      "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
-      "icudt_EFIGS.tptq2av103.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
-      "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+      "icudt.oh1zvcfom8.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
     },
     "coreAssembly": {
       "System.Runtime.InteropServices.JavaScript.3tj976hrs3.wasm": "sha256-eSQNRS0Zms6F78hPluxG1dJnlPVV1SAxRLjHJ8B943Y=",
@@ -432,12 +428,12 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "Dima.Core.27mlxhmp6c.wasm": "sha256-Ylf4AUdwwhCQzcBl6jL20uHMHs5HBb2K2ylBm+hDVAw=",
-      "Dima.Web.wvb12ekmxy.wasm": "sha256-bOzYaIPF/NNNViD43vVBAKQMBoTmdFz839N8mLQG6R0="
+      "Dima.Core.qlxwcq9d33.wasm": "sha256-4olAzYzTC42pfMUYxY1uFJgaAuTVQaG0qqZLsCP94jo=",
+      "Dima.Web.3qp846hzza.wasm": "sha256-O2D6IA8UB80JGPsMORnS3SXAHVtuP7NTVq7X6RiodX4="
     },
     "pdb": {
-      "Dima.Core.ks9ymd8u5b.pdb": "sha256-7G+kGlE+PR3qPyuRJ9r3gkVZzosnIgzzZlJJ0eLJXGA=",
-      "Dima.Web.7w9d9no3mh.pdb": "sha256-VxgzSW9Tgql9OVEJIjAEatv64rFz0tUhuoNC4WRQvYc="
+      "Dima.Core.iypd0l5vyr.pdb": "sha256-qkjsmynNNqtOrLPKTeT4tcrPPZF4MupeImeNdbMgwBs=",
+      "Dima.Web.aoxqo71t3b.pdb": "sha256-+hDwBe3Iu2MwZnA6IXB/YIir0n3a49xMswtVMBVgKx4="
     }
   },
   "cacheBootResources": true,
@@ -445,7 +441,7 @@
   "appsettings": [
     "../appsettings.json"
   ],
-  "globalizationMode": "sharded",
+  "globalizationMode": "all",
   "extensions": {
     "blazor": {}
   }

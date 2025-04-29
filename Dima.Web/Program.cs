@@ -6,6 +6,7 @@ using Dima.Web.Security;
 using Microsoft.AspNetCore.Components.Authorization;
 using Dima.Core.Handlers;
 using Dima.Web.Handlers;
+using System.Globalization;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -24,6 +25,11 @@ builder.Services.AddMudServices();
 builder.Services.AddTransient<IAccountHandler, AccountHandler>();
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
 builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
+
+builder.Services.AddLocalization();
+
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR"); //TODO: Para forçar o PT-br, se nao via pegar a do sistema.
+CultureInfo.DefaultThreadCurrentUICulture = new CultureInfo("pt-BR");
 
 builder.Services.AddHttpClient(Configuration.HttpClientName,opt => 
 {

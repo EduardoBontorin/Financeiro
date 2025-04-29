@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q88981KBTeU=",
+  "dgSpecHash": "K27pqvIr7ho=",
   "success": true,
-  "projectFilePath": "C:\\dev\\Dima\\dima.web\\Dima.Web.csproj",
+  "projectFilePath": "C:\\dev\\Dima\\Dima.Web\\Dima.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.4\\microsoft.aspnetcore.authorization.9.0.4.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.4\\microsoft.aspnetcore.components.9.0.4.nupkg.sha512",

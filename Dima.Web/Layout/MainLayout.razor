@@ -2,7 +2,9 @@
 
 
 <MudThemeProvider @ref="_mudThemeProvider"  @bind-IsDarkMode="_isDarkMode" Theme="Configuration.Theme" />
+<MudPopoverProvider />
 <MudSnackbarProvider />
+<MudDialogProvider />
 
 <AuthorizeView>
     <Authorized>
@@ -16,16 +18,16 @@
                     @context.User.Identity?.Name
                 </MudText>
                 <MudSwitch Label="Modo escuro" 
-                    Color="Color.Inherit" T="bool" 
-                    ThumbIcon="@Icons.Material.TwoTone.Lightbulb" 
-                    Class="ma-4" @bind-Value="@_isDarkMode" />
+                Color="Color.Inherit" T="bool" 
+                ThumbIcon="@Icons.Material.TwoTone.Lightbulb" 
+                Class="ma-4" @bind-Value="@_isDarkMode" />
 
             </MudAppBar>
             <MudDrawer @bind-Open ="@_isDrawerOpen">
                 <NavMenu></NavMenu>
             </MudDrawer>
             <MudMainContent>
-                <MudContainer>
+                <MudContainer Class="mt-4">
                     @Body
                 </MudContainer>
             </MudMainContent>
