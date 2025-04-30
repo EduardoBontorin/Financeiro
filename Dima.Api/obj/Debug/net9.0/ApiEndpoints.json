@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "\u003C\u003Ef__AnonymousType12\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "\u003C\u003Ef__AnonymousType11\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "application/json"
         ],
@@ -214,7 +214,7 @@
     "Tags": [
       "Identity"
     ],
-    "EndpointName": "MapIdentityApi-v1/identity/confirmEmail"
+    "EndpointName": "MapIdentityApi-/v1/identity/confirmEmail"
   },
   {
     "ContainingType": "Microsoft.AspNetCore.Routing.IdentityApiEndpointRouteBuilderExtensions\u002B\u003C\u003Ec__DisplayClass1_0\u00601[[Dima.Api.Models.User, Dima.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
@@ -286,8 +286,8 @@
     ]
   },
   {
-    "ContainingType": "Dima.Api.Common.Api.AppExtension\u002B\u003C\u003Ec",
-    "Method": "\u003CUseSecurity\u003Eb__1_0",
+    "ContainingType": "Dima.Api.Endpoints.Identity.LogoutEndpoint",
+    "Method": "HandleAsync",
     "RelativePath": "v1/identity/logout",
     "HttpMethod": "POST",
     "IsController": false,
@@ -532,8 +532,8 @@
     ]
   },
   {
-    "ContainingType": "Dima.Api.Common.Api.AppExtension\u002B\u003C\u003Ec",
-    "Method": "\u003CUseSecurity\u003Eb__1_1",
+    "ContainingType": "Dima.Api.Endpoints.Identity.GetRolesEndpoint",
+    "Method": "Handle",
     "RelativePath": "v1/identity/roles",
     "HttpMethod": "GET",
     "IsController": false,

@@ -193,7 +193,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/<>f__AnonymousType12`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"
+                  "$ref": "#/components/schemas/<>f__AnonymousType11`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"
                 }
               }
             }
@@ -312,7 +312,7 @@
         "tags": [
           "Identity"
         ],
-        "operationId": "MapIdentityApi-v1/identity/confirmEmail",
+        "operationId": "MapIdentityApi-/v1/identity/confirmEmail",
         "parameters": [
           {
             "name": "userId",
@@ -754,7 +754,7 @@
   },
   "components": {
     "schemas": {
-      "<>f__AnonymousType12`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]": {
+      "<>f__AnonymousType11`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]": {
         "type": "object",
         "properties": {
           "message": {
