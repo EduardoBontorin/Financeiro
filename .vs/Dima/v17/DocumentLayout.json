@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\dev\\Dima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\pages\\transactions\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\transactions\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\pages\\transactions\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\transactions\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\endpoints\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\endpoints\\transactions\\createtransactionendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\transactions\\createtransactionendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +38,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionHandler.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Handlers\\TransactionHandler.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Handlers\\TransactionHandler.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Handlers\\TransactionHandler.cs",
+              "RelativeToolTip": "Dima.Api\\Handlers\\TransactionHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwHMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:28:26.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit.razor.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Pages\\Transactions\\edit.razor.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Transactions\\edit.razor.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Pages\\Transactions\\edit.razor.cs",
+              "RelativeToolTip": "Dima.Web\\Pages\\Transactions\\edit.razor.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:28:26.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Endpoint.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Endpoint.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Endpoint.cs",
+              "RelativeToolTip": "Dima.Api\\Endpoints\\Endpoint.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:27:56.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TransactionHandler.cs",
               "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Handlers\\TransactionHandler.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Handlers\\TransactionHandler.cs",
               "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Handlers\\TransactionHandler.cs",
               "RelativeToolTip": "Dima.Web\\Handlers\\TransactionHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T19:27:29.105Z",
+              "WhenOpened": "2025-06-09T20:27:39.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "List.razor",
-              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Pages\\Transactions\\List.razor",
-              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Transactions\\List.razor",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Pages\\Transactions\\List.razor",
-              "RelativeToolTip": "Dima.Web\\Pages\\Transactions\\List.razor",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T19:46:26.774Z",
+              "DocumentIndex": 4,
+              "Title": "CreateTransactionEndpoint.cs",
+              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
+              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
+              "RelativeToolTip": "Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:24:23.768Z",
               "EditorCaption": ""
             }
           ]

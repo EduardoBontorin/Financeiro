@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kk2JI0UC+8maU7FKydC1kvGh7RQxvX7uVWZ5SOzgDVM=",
+  "Hash": "ouhC6wlCDoM4fbJRBU+mguyZWKporgRfgd8Ol8tCnu4=",
   "Source": "Dima.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ul7fh20642",
-      "Integrity": "vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=",
+      "Fingerprint": "0z51utg3ll",
+      "Integrity": "fAb7sym7EKRDgv9rIhWNEwkTci482hcjjLfIXGhbvOM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "7lkg0d0wbu",
-      "Integrity": "xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=",
+      "Fingerprint": "xnrz3qft9b",
+      "Integrity": "M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.core\\bin\\Debug\\net9.0\\Dima.Core.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "qb5qfnmijt",
-      "Integrity": "dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=",
+      "Fingerprint": "4qk7i1pn6t",
+      "Integrity": "VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\webcil\\Dima.Core.wasm"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "3lryhk4r7k",
-      "Integrity": "J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=",
+      "Fingerprint": "a6sqq10qys",
+      "Integrity": "Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Dima.Web.pdb"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "rcpqwrkrqy",
-      "Integrity": "JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=",
+      "Fingerprint": "i4isyn38pf",
+      "Integrity": "Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\webcil\\Dima.Web.wasm"
@@ -4721,7 +4721,7 @@
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.wasm"
     },
     {
-      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-wxb968p7x6.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -4735,8 +4735,8 @@
       "RelatedAsset": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hhbz99k9z3",
-      "Integrity": "5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=",
+      "Fingerprint": "dhxfxydhnw",
+      "Integrity": "QfAPJBNs/TodKmUSK+39weh8/soJw559+7QxntVidMQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -5204,12 +5204,12 @@
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-a6sqq10qys.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dima.Web#[.{fingerprint=3lryhk4r7k}]!.pdb.gz",
+      "RelativePath": "_framework/Dima.Web#[.{fingerprint=a6sqq10qys}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5218,8 +5218,8 @@
       "RelatedAsset": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hnbkqrz53a",
-      "Integrity": "A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=",
+      "Fingerprint": "evavgxlc4g",
+      "Integrity": "yswacxcmjZNyBoyS0JjWdLYSqOKjvfJMEdRNouNxn2w=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb"
@@ -5267,7 +5267,7 @@
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-y33u8w4lpx.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -5372,12 +5372,12 @@
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
     },
     {
-      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-xnrz3qft9b.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dima.Core#[.{fingerprint=7lkg0d0wbu}]!.pdb.gz",
+      "RelativePath": "_framework/Dima.Core#[.{fingerprint=xnrz3qft9b}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5386,8 +5386,8 @@
       "RelatedAsset": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "glxv8bo736",
-      "Integrity": "LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=",
+      "Fingerprint": "wsexjbb1pj",
+      "Integrity": "0EcTJO1vXXmTxiUyLXHnbg7d8D2xlgs7bxpyc+FslDI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb"
@@ -6170,12 +6170,12 @@
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-qb5qfnmijt.gz",
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-4qk7i1pn6t.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dima.Core#[.{fingerprint=qb5qfnmijt}]!.wasm.gz",
+      "RelativePath": "_framework/Dima.Core#[.{fingerprint=4qk7i1pn6t}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6184,8 +6184,8 @@
       "RelatedAsset": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zctodggqoi",
-      "Integrity": "o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=",
+      "Fingerprint": "x79bxvdbm9",
+      "Integrity": "k88V5GSN5xanFoPOSYhk3bU4Dt3GLkFC89C/UOCQ42I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.wasm"
@@ -7304,7 +7304,7 @@
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.wasm"
     },
     {
-      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-0z51utg3ll.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
@@ -7318,8 +7318,8 @@
       "RelatedAsset": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sijgz759wn",
-      "Integrity": "1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=",
+      "Fingerprint": "vy1vjtrfmh",
+      "Integrity": "Se3nskYPOAOFDKUGb1c+zO/HtliVKmI4rYzf8lY85YY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8795,12 +8795,12 @@
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Xml.XDocument.wasm"
     },
     {
-      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-i4isyn38pf.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dima.Web#[.{fingerprint=rcpqwrkrqy}]!.wasm.gz",
+      "RelativePath": "_framework/Dima.Web#[.{fingerprint=i4isyn38pf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8809,8 +8809,8 @@
       "RelatedAsset": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sh8rayekey",
-      "Integrity": "QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=",
+      "Fingerprint": "83gguyalfx",
+      "Integrity": "dDuLZUc9kCJUn5IjsVmf4JUuv9cxW5Uwa0mMuv9VkoQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm"
@@ -9166,8 +9166,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "qwyq6nb01r",
-      "Integrity": "OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=",
+      "Fingerprint": "y33u8w4lpx",
+      "Integrity": "wow0bf7MySDUXYrLsq8LN+bD0fjpwvOTWz2rzYJ9RBI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot\\service-worker.js"
@@ -9187,8 +9187,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "gfwx0ve6fd",
-      "Integrity": "bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=",
+      "Fingerprint": "wxb968p7x6",
+      "Integrity": "TCXFi/CWukjq81XF/LdF2neu90JxZxe00OzjVFDm+fw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -9967,11 +9967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
+          "Value": "\"fAb7sym7EKRDgv9rIhWNEwkTci482hcjjLfIXGhbvOM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9981,18 +9981,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
+          "Value": "sha256-fAb7sym7EKRDgv9rIhWNEwkTci482hcjjLfIXGhbvOM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-0z51utg3ll.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077429346"
+          "Quality": "0.000077435341"
         }
       ],
       "ResponseHeaders": [
@@ -10002,15 +10002,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12914"
+          "Value": "12913"
         },
         {
           "Name": "ETag",
-          "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
+          "Value": "\"Se3nskYPOAOFDKUGb1c+zO/HtliVKmI4rYzf8lY85YY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:01:26 GMT"
+          "Value": "Mon, 09 Jun 2025 20:15:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10030,19 +10030,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
+          "Value": "W/\"fAb7sym7EKRDgv9rIhWNEwkTci482hcjjLfIXGhbvOM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
+          "Value": "sha256-fAb7sym7EKRDgv9rIhWNEwkTci482hcjjLfIXGhbvOM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-0z51utg3ll.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10051,7 +10051,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12914"
+          "Value": "12913"
         },
         {
           "Name": "Content-Type",
@@ -10059,11 +10059,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
+          "Value": "\"Se3nskYPOAOFDKUGb1c+zO/HtliVKmI4rYzf8lY85YY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:01:26 GMT"
+          "Value": "Mon, 09 Jun 2025 20:15:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10081,7 +10081,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ="
+          "Value": "sha256-Se3nskYPOAOFDKUGb1c+zO/HtliVKmI4rYzf8lY85YY="
         }
       ]
     },
@@ -10223,305 +10223,7 @@
       ]
     },
     {
-      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16648"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7lkg0d0wbu"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dima.Core.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000108073057"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9252"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7lkg0d0wbu"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dima.Core.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9252"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7lkg0d0wbu"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dima.Core.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Core.pdb",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16648"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Core.pdb",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000108073057"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9252"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Core.pdb.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9252"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Core.qb5qfnmijt.wasm",
+      "Route": "_framework/Dima.Core.4qk7i1pn6t.wasm",
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10539,11 +10241,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+          "Value": "\"VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:19 GMT"
+          "Value": "Fri, 09 May 2025 23:20:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10553,7 +10255,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qb5qfnmijt"
+          "Value": "4qk7i1pn6t"
         },
         {
           "Name": "label",
@@ -10561,18 +10263,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+          "Value": "sha256-VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Core.qb5qfnmijt.wasm",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-qb5qfnmijt.gz",
+      "Route": "_framework/Dima.Core.4qk7i1pn6t.wasm",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-4qk7i1pn6t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000145095763"
+          "Quality": "0.000148126204"
         }
       ],
       "ResponseHeaders": [
@@ -10582,15 +10284,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6891"
+          "Value": "6750"
         },
         {
           "Name": "ETag",
-          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+          "Value": "\"k88V5GSN5xanFoPOSYhk3bU4Dt3GLkFC89C/UOCQ42I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10610,13 +10312,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+          "Value": "W/\"VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qb5qfnmijt"
+          "Value": "4qk7i1pn6t"
         },
         {
           "Name": "label",
@@ -10624,13 +10326,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+          "Value": "sha256-VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Core.qb5qfnmijt.wasm.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-qb5qfnmijt.gz",
+      "Route": "_framework/Dima.Core.4qk7i1pn6t.wasm.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-4qk7i1pn6t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10639,7 +10341,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6891"
+          "Value": "6750"
         },
         {
           "Name": "Content-Type",
@@ -10647,11 +10349,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+          "Value": "\"k88V5GSN5xanFoPOSYhk3bU4Dt3GLkFC89C/UOCQ42I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10669,7 +10371,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qb5qfnmijt"
+          "Value": "4qk7i1pn6t"
         },
         {
           "Name": "label",
@@ -10677,7 +10379,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ="
+          "Value": "sha256-k88V5GSN5xanFoPOSYhk3bU4Dt3GLkFC89C/UOCQ42I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 16:21:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-xnrz3qft9b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000110071547"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0EcTJO1vXXmTxiUyLXHnbg7d8D2xlgs7bxpyc+FslDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.pdb.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-xnrz3qft9b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0EcTJO1vXXmTxiUyLXHnbg7d8D2xlgs7bxpyc+FslDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0EcTJO1vXXmTxiUyLXHnbg7d8D2xlgs7bxpyc+FslDI="
         }
       ]
     },
@@ -10700,11 +10539,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+          "Value": "\"VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:19 GMT"
+          "Value": "Fri, 09 May 2025 23:20:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10714,18 +10553,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+          "Value": "sha256-VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Core.wasm",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-qb5qfnmijt.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-4qk7i1pn6t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000145095763"
+          "Quality": "0.000148126204"
         }
       ],
       "ResponseHeaders": [
@@ -10735,15 +10574,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6891"
+          "Value": "6750"
         },
         {
           "Name": "ETag",
-          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+          "Value": "\"k88V5GSN5xanFoPOSYhk3bU4Dt3GLkFC89C/UOCQ42I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10763,19 +10602,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+          "Value": "W/\"VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+          "Value": "sha256-VFUI4eYpPVO/OPC7/myFOekpBvZtzcoF580VC9zsxxg="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Core.wasm.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-qb5qfnmijt.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-4qk7i1pn6t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10784,7 +10623,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6891"
+          "Value": "6750"
         },
         {
           "Name": "Content-Type",
@@ -10792,11 +10631,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+          "Value": "\"k88V5GSN5xanFoPOSYhk3bU4Dt3GLkFC89C/UOCQ42I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10814,12 +10653,173 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ="
+          "Value": "sha256-k88V5GSN5xanFoPOSYhk3bU4Dt3GLkFC89C/UOCQ42I="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb",
+      "Route": "_framework/Dima.Core.xnrz3qft9b.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 16:21:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnrz3qft9b"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.xnrz3qft9b.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-xnrz3qft9b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000110071547"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0EcTJO1vXXmTxiUyLXHnbg7d8D2xlgs7bxpyc+FslDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnrz3qft9b"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M85QpLgbg7rZ2y2FO9zasmNrsSMajdgNyZ2fhQnKatY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.xnrz3qft9b.pdb.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-xnrz3qft9b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0EcTJO1vXXmTxiUyLXHnbg7d8D2xlgs7bxpyc+FslDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:20:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnrz3qft9b"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0EcTJO1vXXmTxiUyLXHnbg7d8D2xlgs7bxpyc+FslDI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.a6sqq10qys.pdb",
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10829,7 +10829,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "66152"
+          "Value": "71808"
         },
         {
           "Name": "Content-Type",
@@ -10837,11 +10837,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+          "Value": "\"Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10851,7 +10851,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3lryhk4r7k"
+          "Value": "a6sqq10qys"
         },
         {
           "Name": "label",
@@ -10859,18 +10859,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+          "Value": "sha256-Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+      "Route": "_framework/Dima.Web.a6sqq10qys.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-a6sqq10qys.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000019970843"
+          "Quality": "0.000018365136"
         }
       ],
       "ResponseHeaders": [
@@ -10880,15 +10880,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50072"
+          "Value": "54450"
         },
         {
           "Name": "ETag",
-          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+          "Value": "\"yswacxcmjZNyBoyS0JjWdLYSqOKjvfJMEdRNouNxn2w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10908,13 +10908,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+          "Value": "W/\"Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3lryhk4r7k"
+          "Value": "a6sqq10qys"
         },
         {
           "Name": "label",
@@ -10922,13 +10922,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+          "Value": "sha256-Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw="
         }
       ]
     },
     {
-      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+      "Route": "_framework/Dima.Web.a6sqq10qys.pdb.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-a6sqq10qys.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10937,7 +10937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50072"
+          "Value": "54450"
         },
         {
           "Name": "Content-Type",
@@ -10945,11 +10945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+          "Value": "\"yswacxcmjZNyBoyS0JjWdLYSqOKjvfJMEdRNouNxn2w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10967,7 +10967,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3lryhk4r7k"
+          "Value": "a6sqq10qys"
         },
         {
           "Name": "label",
@@ -10975,7 +10975,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys="
+          "Value": "sha256-yswacxcmjZNyBoyS0JjWdLYSqOKjvfJMEdRNouNxn2w="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.i4isyn38pf.wasm",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 20:22:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i4isyn38pf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Web.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.i4isyn38pf.wasm",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-i4isyn38pf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000022897967"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43671"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dDuLZUc9kCJUn5IjsVmf4JUuv9cxW5Uwa0mMuv9VkoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i4isyn38pf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Web.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.i4isyn38pf.wasm.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-i4isyn38pf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dDuLZUc9kCJUn5IjsVmf4JUuv9cxW5Uwa0mMuv9VkoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i4isyn38pf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Web.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dDuLZUc9kCJUn5IjsVmf4JUuv9cxW5Uwa0mMuv9VkoQ="
         }
       ]
     },
@@ -10990,7 +11151,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "66152"
+          "Value": "71808"
         },
         {
           "Name": "Content-Type",
@@ -10998,11 +11159,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+          "Value": "\"Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11012,18 +11173,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+          "Value": "sha256-Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Web.pdb",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-a6sqq10qys.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000019970843"
+          "Quality": "0.000018365136"
         }
       ],
       "ResponseHeaders": [
@@ -11033,15 +11194,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50072"
+          "Value": "54450"
         },
         {
           "Name": "ETag",
-          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+          "Value": "\"yswacxcmjZNyBoyS0JjWdLYSqOKjvfJMEdRNouNxn2w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11061,19 +11222,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+          "Value": "W/\"Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+          "Value": "sha256-Io/M5xApntAi84zzuVqM4Kxc8lqVfkXZq08gfIUQXiw="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Web.pdb.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-a6sqq10qys.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11082,7 +11243,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50072"
+          "Value": "54450"
         },
         {
           "Name": "Content-Type",
@@ -11090,11 +11251,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+          "Value": "\"yswacxcmjZNyBoyS0JjWdLYSqOKjvfJMEdRNouNxn2w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11112,168 +11273,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.rcpqwrkrqy.wasm",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "109333"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rcpqwrkrqy"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dima.Web.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.rcpqwrkrqy.wasm",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000024226567"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "41276"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rcpqwrkrqy"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dima.Web.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "41276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rcpqwrkrqy"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dima.Web.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
+          "Value": "sha256-yswacxcmjZNyBoyS0JjWdLYSqOKjvfJMEdRNouNxn2w="
         }
       ]
     },
@@ -11288,7 +11288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109333"
+          "Value": "118549"
         },
         {
           "Name": "Content-Type",
@@ -11296,11 +11296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
+          "Value": "\"Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11310,18 +11310,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+          "Value": "sha256-Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Web.wasm",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-i4isyn38pf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000024226567"
+          "Quality": "0.000022897967"
         }
       ],
       "ResponseHeaders": [
@@ -11331,15 +11331,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41276"
+          "Value": "43671"
         },
         {
           "Name": "ETag",
-          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+          "Value": "\"dDuLZUc9kCJUn5IjsVmf4JUuv9cxW5Uwa0mMuv9VkoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11359,19 +11359,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
+          "Value": "W/\"Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+          "Value": "sha256-Pmf7NjBBqwyrm47vBDbhS9PstfkQ88SgG/lDGrCYZfA="
         }
       ]
     },
     {
       "Route": "_framework/Dima.Web.wasm.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-i4isyn38pf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11380,7 +11380,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41276"
+          "Value": "43671"
         },
         {
           "Name": "Content-Type",
@@ -11388,11 +11388,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+          "Value": "\"dDuLZUc9kCJUn5IjsVmf4JUuv9cxW5Uwa0mMuv9VkoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11410,7 +11410,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
+          "Value": "sha256-dDuLZUc9kCJUn5IjsVmf4JUuv9cxW5Uwa0mMuv9VkoQ="
         }
       ]
     },
@@ -74704,7 +74704,7 @@
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-y33u8w4lpx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -74727,7 +74727,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74747,13 +74747,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
+          "Value": "W/\"wow0bf7MySDUXYrLsq8LN+bD0fjpwvOTWz2rzYJ9RBI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
+          "Value": "sha256-wow0bf7MySDUXYrLsq8LN+bD0fjpwvOTWz2rzYJ9RBI="
         }
       ]
     },
@@ -74776,7 +74776,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
+          "Value": "\"wow0bf7MySDUXYrLsq8LN+bD0fjpwvOTWz2rzYJ9RBI=\""
         },
         {
           "Name": "Last-Modified",
@@ -74790,13 +74790,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
+          "Value": "sha256-wow0bf7MySDUXYrLsq8LN+bD0fjpwvOTWz2rzYJ9RBI="
         }
       ]
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-y33u8w4lpx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -74817,7 +74817,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74841,12 +74841,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-wxb968p7x6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000084681175"
+          "Quality": "0.000084659668"
         }
       ],
       "ResponseHeaders": [
@@ -74856,15 +74856,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11808"
+          "Value": "11811"
         },
         {
           "Name": "ETag",
-          "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
+          "Value": "\"QfAPJBNs/TodKmUSK+39weh8/soJw559+7QxntVidMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74884,13 +74884,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
+          "Value": "W/\"TCXFi/CWukjq81XF/LdF2neu90JxZxe00OzjVFDm+fw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
+          "Value": "sha256-TCXFi/CWukjq81XF/LdF2neu90JxZxe00OzjVFDm+fw="
         }
       ]
     },
@@ -74913,11 +74913,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
+          "Value": "\"TCXFi/CWukjq81XF/LdF2neu90JxZxe00OzjVFDm+fw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74927,13 +74927,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
+          "Value": "sha256-TCXFi/CWukjq81XF/LdF2neu90JxZxe00OzjVFDm+fw="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-wxb968p7x6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -74942,7 +74942,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11808"
+          "Value": "11811"
         },
         {
           "Name": "Content-Type",
@@ -74950,11 +74950,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
+          "Value": "\"QfAPJBNs/TodKmUSK+39weh8/soJw559+7QxntVidMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+          "Value": "Mon, 09 Jun 2025 20:22:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -74972,7 +74972,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so="
+          "Value": "sha256-QfAPJBNs/TodKmUSK+39weh8/soJw559+7QxntVidMQ="
         }
       ]
     }

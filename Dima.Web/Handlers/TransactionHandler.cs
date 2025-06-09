@@ -33,7 +33,7 @@ namespace Dima.Web.Handlers
             const string format = "yyyy-MM-dd";
             var startDate = request.StartDate is not null ? request.StartDate.Value.ToString(format) : DateTime.Now.GetFirstDay().ToString(format);
 
-            var endDate = request.StartDate is not null ? request.StartDate.Value.ToString(format) : DateTime.Now.GetLastDay().ToString(format);
+            var endDate = request.EndDate is not null ? request.EndDate.Value.ToString(format) : DateTime.Now.GetLastDay().ToString(format);
 
             var url = $"v1/transactions?startDate={startDate}&endDate={endDate}";
 
@@ -43,7 +43,7 @@ namespace Dima.Web.Handlers
 
         public async Task<Response<Transaction?>> UpdateAsync(UpdateTransactionRequest request)
         {
-           var result = await _client.PutAsJsonAsync($"v1/categories/{request.Id}",request);
+           var result = await _client.PutAsJsonAsync($"v1/transactions/{request.Id}",request);
             return await result.Content.ReadFromJsonAsync<Response<Transaction?>>() ?? new Response<Transaction?>(null, 400, "Falha ao atualizar transação");   
         }
     }
