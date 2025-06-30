@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "\u003C\u003Ef__AnonymousType11\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "\u003C\u003Ef__AnonymousType13\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "application/json"
         ],
@@ -19,6 +19,71 @@
     "Tags": [
       "Health Check"
     ]
+  },
+  {
+    "ContainingType": "Dima.Api.Endpoints.Apontamentos.CreateApontamentoEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "v1/Apontamento/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Dima.Core.Requests.Apontamento.CreateApontamentoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Dima.Core.Responses.Response\u00601[[Dima.Core.Models.Apontamento, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Apontamentos"
+    ],
+    "EndpointName": "Apontamentos: Create",
+    "Description": "Cria um novo apontamento de produ\u00E7\u00E3o",
+    "Summary": "Cria um novo apontamento de produ\u00E7\u00E3o"
+  },
+  {
+    "ContainingType": "Dima.Api.Endpoints.Apontamentos.GetAllApontamentosEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "v1/Apontamento/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Dima.Core.Responses.PagedResponse\u00601[[Dima.Core.Models.Apontamento, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Apontamentos"
+    ],
+    "EndpointName": "Apontamentos: Get All",
+    "Description": "Recupera todos os apontamentos com pagina\u00E7\u00E3o",
+    "Summary": "Recupera todas os apontamentos"
   },
   {
     "ContainingType": "Dima.Api.Endpoints.Categories.CreateCategoryEndpoint",
@@ -549,6 +614,71 @@
     "Tags": [
       "Identity"
     ]
+  },
+  {
+    "ContainingType": "Dima.Api.Endpoints.Locais.CreateLocalEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "v1/Local/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Dima.Core.Requests.Local.CreateLocalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Dima.Core.Responses.Response\u00601[[Dima.Core.Models.Local, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Locais"
+    ],
+    "EndpointName": "Local: Create",
+    "Description": "Cria um novo Local de produ\u00E7\u00E3o",
+    "Summary": "Cria um novo Local de produ\u00E7\u00E3o"
+  },
+  {
+    "ContainingType": "Dima.Api.Endpoints.Locais.GetAllLocaisEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "v1/Local/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Dima.Core.Responses.PagedResponse\u00601[[Dima.Core.Models.Category, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Locais"
+    ],
+    "EndpointName": "Locais: Get All",
+    "Description": "Recupera todos os Locais",
+    "Summary": "Recupera todos os Locais"
   },
   {
     "ContainingType": "Dima.Api.Endpoints.Transactions.CreateTransactionEndpoint",

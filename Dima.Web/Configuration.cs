@@ -33,10 +33,10 @@ namespace Dima.Web
             PaletteDark = new PaletteDark()
             {
                 Primary = Colors.LightGreen.Accent3,
-                Secondary = Colors.LightGreen.Darken3,
+                Secondary = Colors.Shades.White,
                 AppbarBackground = Colors.LightGreen.Accent3,
                 AppbarText = Colors.Shades.Black,
-                PrimaryContrastText = new MudColor("#000000")
+                PrimaryContrastText = Colors.Shades.Black
             }
         };
     }

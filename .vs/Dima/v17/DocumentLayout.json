@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\Dima\\",
+  "WorkspaceRootPath": "C:\\dev\\POC Neodent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\poc neodent\\dima.api\\endpoints\\locais\\getalllocaisendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\locais\\getalllocaisendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\poc neodent\\dima.api\\endpoints\\locais\\createlocalendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\locais\\createlocalendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\pages\\transactions\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\transactions\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\endpoints\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\dima\\dima.api\\endpoints\\transactions\\createtransactionendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\transactions\\createtransactionendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\poc neodent\\dima.api\\common\\api\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\common\\api\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,66 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TransactionHandler.cs",
-              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Handlers\\TransactionHandler.cs",
-              "RelativeDocumentMoniker": "Dima.Api\\Handlers\\TransactionHandler.cs",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Handlers\\TransactionHandler.cs",
-              "RelativeToolTip": "Dima.Api\\Handlers\\TransactionHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAvwHMAAABfAAAAAAAAAA==",
+              "Title": "GetAllLocaisEndpoint.cs",
+              "DocumentMoniker": "C:\\dev\\POC Neodent\\Dima.Api\\Endpoints\\Locais\\GetAllLocaisEndpoint.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Locais\\GetAllLocaisEndpoint.cs",
+              "ToolTip": "C:\\dev\\POC Neodent\\Dima.Api\\Endpoints\\Locais\\GetAllLocaisEndpoint.cs",
+              "RelativeToolTip": "Dima.Api\\Endpoints\\Locais\\GetAllLocaisEndpoint.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:28:26.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "edit.razor.cs",
-              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Pages\\Transactions\\edit.razor.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Transactions\\edit.razor.cs",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Pages\\Transactions\\edit.razor.cs",
-              "RelativeToolTip": "Dima.Web\\Pages\\Transactions\\edit.razor.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAvwDwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:28:26.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Endpoint.cs",
-              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Endpoint.cs",
-              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Endpoint.cs",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Endpoint.cs",
-              "RelativeToolTip": "Dima.Api\\Endpoints\\Endpoint.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:27:56.392Z",
+              "WhenOpened": "2025-06-30T21:59:54.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TransactionHandler.cs",
-              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Handlers\\TransactionHandler.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Handlers\\TransactionHandler.cs",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Web\\Handlers\\TransactionHandler.cs",
-              "RelativeToolTip": "Dima.Web\\Handlers\\TransactionHandler.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Title": "CreateLocalEndpoint.cs",
+              "DocumentMoniker": "C:\\dev\\POC Neodent\\Dima.Api\\Endpoints\\Locais\\CreateLocalEndpoint.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Locais\\CreateLocalEndpoint.cs",
+              "ToolTip": "C:\\dev\\POC Neodent\\Dima.Api\\Endpoints\\Locais\\CreateLocalEndpoint.cs",
+              "RelativeToolTip": "Dima.Api\\Endpoints\\Locais\\CreateLocalEndpoint.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:27:39.637Z",
+              "WhenOpened": "2025-06-30T21:59:42.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateTransactionEndpoint.cs",
-              "DocumentMoniker": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
-              "RelativeDocumentMoniker": "Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
-              "ToolTip": "C:\\dev\\Dima\\Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
-              "RelativeToolTip": "Dima.Api\\Endpoints\\Transactions\\CreateTransactionEndpoint.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BuilderExtensions.cs",
+              "DocumentMoniker": "C:\\dev\\POC Neodent\\Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "ToolTip": "C:\\dev\\POC Neodent\\Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "RelativeToolTip": "Dima.Api\\Common\\Api\\BuilderExtensions.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:24:23.768Z",
+              "WhenOpened": "2025-06-30T21:59:22.289Z",
               "EditorCaption": ""
             }
           ]

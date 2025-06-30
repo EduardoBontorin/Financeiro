@@ -5,6 +5,78 @@
     "version": "1.0"
   },
   "paths": {
+    "/v1/Apontamento": {
+      "post": {
+        "tags": [
+          "Apontamentos"
+        ],
+        "summary": "Cria um novo apontamento de produção",
+        "description": "Cria um novo apontamento de produção",
+        "operationId": "Apontamentos: Create",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Dima.Core.Requests.Apontamento.CreateApontamentoRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Dima.Core.Responses.Response`1[[Dima.Core.Models.Apontamento, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Apontamentos"
+        ],
+        "summary": "Recupera todas os apontamentos",
+        "description": "Recupera todos os apontamentos com paginação",
+        "operationId": "Apontamentos: Get All",
+        "parameters": [
+          {
+            "name": "pageNumber",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 1
+            }
+          },
+          {
+            "name": "pageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 25
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Dima.Core.Responses.PagedResponse`1[[Dima.Core.Models.Apontamento, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/v1/categories": {
       "post": {
         "tags": [
@@ -193,7 +265,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/<>f__AnonymousType11`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"
+                  "$ref": "#/components/schemas/<>f__AnonymousType13`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"
                 }
               }
             }
@@ -569,6 +641,78 @@
         }
       }
     },
+    "/v1/Local": {
+      "post": {
+        "tags": [
+          "Locais"
+        ],
+        "summary": "Cria um novo Local de produção",
+        "description": "Cria um novo Local de produção",
+        "operationId": "Local: Create",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Dima.Core.Requests.Local.CreateLocalRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Dima.Core.Responses.Response`1[[Dima.Core.Models.Local, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Locais"
+        ],
+        "summary": "Recupera todos os Locais",
+        "description": "Recupera todos os Locais",
+        "operationId": "Locais: Get All",
+        "parameters": [
+          {
+            "name": "pageNumber",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 1
+            }
+          },
+          {
+            "name": "pageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 25
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Dima.Core.Responses.PagedResponse`1[[Dima.Core.Models.Category, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/v1/transactions": {
       "post": {
         "tags": [
@@ -765,7 +909,7 @@
   },
   "components": {
     "schemas": {
-      "<>f__AnonymousType11`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]": {
+      "<>f__AnonymousType13`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]": {
         "type": "object",
         "properties": {
           "message": {
@@ -783,6 +927,35 @@
         "type": "integer",
         "format": "int32"
       },
+      "Dima.Core.Models.Apontamento": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "dataApontamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "ordemDeProducao": {
+            "type": "string",
+            "nullable": true
+          },
+          "localId": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "local": {
+            "$ref": "#/components/schemas/Dima.Core.Models.Local"
+          },
+          "usuario": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "Dima.Core.Models.Category": {
         "type": "object",
         "properties": {
@@ -799,6 +972,24 @@
             "nullable": true
           },
           "userId": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Dima.Core.Models.Local": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "codigoLocal": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "localDeApontamento": {
             "type": "string",
             "nullable": true
           }
@@ -842,6 +1033,34 @@
           "userId": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Dima.Core.Requests.Apontamento.CreateApontamentoRequest": {
+        "required": [
+          "localId",
+          "ordemDeProducao"
+        ],
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "string",
+            "nullable": true
+          },
+          "dataDeApontamento": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "ordemDeProducao": {
+            "maxLength": 255,
+            "minLength": 1,
+            "type": "string"
+          },
+          "localId": {
+            "maxLength": 255,
+            "type": "integer",
+            "format": "int64"
           }
         },
         "additionalProperties": false
@@ -890,6 +1109,30 @@
             "type": "string"
           },
           "description": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Dima.Core.Requests.Local.CreateLocalRequest": {
+        "required": [
+          "codigoLocal",
+          "localDeApontamento"
+        ],
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigoLocal": {
+            "maxLength": 255,
+            "type": "integer",
+            "format": "int64"
+          },
+          "localDeApontamento": {
+            "maxLength": 255,
             "minLength": 1,
             "type": "string"
           }
@@ -972,6 +1215,36 @@
         },
         "additionalProperties": false
       },
+      "Dima.Core.Responses.PagedResponse`1[[Dima.Core.Models.Apontamento, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/Dima.Core.Models.Apontamento"
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "currentPage": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalPages": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalCount": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "Dima.Core.Responses.PagedResponse`1[[Dima.Core.Models.Category, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
         "type": "object",
         "properties": {
@@ -1036,11 +1309,37 @@
         },
         "additionalProperties": false
       },
+      "Dima.Core.Responses.Response`1[[Dima.Core.Models.Apontamento, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/Dima.Core.Models.Apontamento"
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "Dima.Core.Responses.Response`1[[Dima.Core.Models.Category, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
         "type": "object",
         "properties": {
           "data": {
             "$ref": "#/components/schemas/Dima.Core.Models.Category"
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Dima.Core.Responses.Response`1[[Dima.Core.Models.Local, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/Dima.Core.Models.Local"
           },
           "message": {
             "type": "string",

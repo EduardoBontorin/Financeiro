@@ -25,6 +25,8 @@ builder.Services.AddMudServices();
 builder.Services.AddTransient<IAccountHandler, AccountHandler>();
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
 builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
+builder.Services.AddTransient<ILocalHandler, LocalHandler>();
+builder.Services.AddTransient<IApontamentoHandler, ApontamentoHandler>();
 
 builder.Services.AddLocalization();
 

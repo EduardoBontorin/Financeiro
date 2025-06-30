@@ -1,0 +1,18 @@
+﻿@page "/apontamentos"
+@using Dima.Web.Pages.Apontamentos
+@inherits CreateApontamentoPage
+
+
+<MudText Typo="Typo.h3"> Nova categoria</MudText>
+
+<MudPaper Class="pa-8 mt-4">
+    <EditForm Model="@InputModel" OnValidSubmit="OnValidSubmitAsync">
+        <DataAnnotationsValidator />
+
+        <MudTextField Label="Título da categoria" Disabled="ColetandoLocal" HelperText="Campo obrigatório" @bind-Value="InputModel.OrdemDeProducao" For="@(()=> InputModel.OrdemDeProducao)" />
+        <MudTextField Label="Descrição" Disabled="ColetandoLocal" Lines=5 HelperText="Campo obrigatório" @bind-Value="InputModel.LocalId" For="@(()=> InputModel.LocalId)" />
+        <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary">Salvar</MudButton>
+
+        <MudButton ButtonType="ButtonType.Button" OnClick="RegistrarApontamentoAsync" Variant="Variant.Filled" Color="Color.Primary">Salvar</MudButton>
+    </EditForm>
+</MudPaper>

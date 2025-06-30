@@ -8,7 +8,7 @@ namespace Dima.Api.Data.Mappings
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
-            builder.ToTable("Categoy");
+            builder.ToTable("Category");
 
             builder.HasKey(x => x.Id);
 

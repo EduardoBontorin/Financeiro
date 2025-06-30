@@ -92,6 +92,37 @@ namespace Dima.Api.Migrations
                     b.ToTable("IdentityUser", (string)null);
                 });
 
+            modelBuilder.Entity("Dima.Core.Models.Apontamento", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<DateTime>("DataApontamento")
+                        .HasColumnType("datetime2");
+
+                    b.Property<long>("LocalId")
+                        .HasColumnType("bigint");
+
+                    b.Property<string>("OrdemDeProducao")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("NVARCHAR");
+
+                    b.Property<string>("Usuario")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("NVARCHAR");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("LocalId");
+
+                    b.ToTable("Apontamento", (string)null);
+                });
+
             modelBuilder.Entity("Dima.Core.Models.Category", b =>
                 {
                     b.Property<long>("Id")
@@ -116,7 +147,30 @@ namespace Dima.Api.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categoy", (string)null);
+                    b.ToTable("Category", (string)null);
+                });
+
+            modelBuilder.Entity("Dima.Core.Models.Local", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<string>("CodigoLocal")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("NVARCHAR");
+
+                    b.Property<string>("LocalDeApontamento")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("NVARCHAR");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Local", (string)null);
                 });
 
             modelBuilder.Entity("Dima.Core.Models.Transaction", b =>
@@ -299,6 +353,17 @@ namespace Dima.Api.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("IdentityUserToken", (string)null);
+                });
+
+            modelBuilder.Entity("Dima.Core.Models.Apontamento", b =>
+                {
+                    b.HasOne("Dima.Core.Models.Local", "Local")
+                        .WithMany()
+                        .HasForeignKey("LocalId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Local");
                 });
 
             modelBuilder.Entity("Dima.Core.Models.Transaction", b =>

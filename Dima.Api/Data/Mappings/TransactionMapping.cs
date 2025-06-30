@@ -36,6 +36,7 @@ namespace Dima.Api.Data.Mappings
                 .HasColumnType("VARCHAR")
                 .HasMaxLength(160);
 
+
         }
     }
 }

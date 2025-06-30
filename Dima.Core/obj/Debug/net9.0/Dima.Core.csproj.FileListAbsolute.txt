@@ -10,3 +10,15 @@ C:\dev\Dima\Dima.core\obj\Debug\net9.0\Dima.Core.dll
 C:\dev\Dima\Dima.core\obj\Debug\net9.0\refint\Dima.Core.dll
 C:\dev\Dima\Dima.core\obj\Debug\net9.0\Dima.Core.pdb
 C:\dev\Dima\Dima.core\obj\Debug\net9.0\ref\Dima.Core.dll
+C:\dev\POC Neodent\Dima.core\bin\Debug\net9.0\Dima.Core.deps.json
+C:\dev\POC Neodent\Dima.core\bin\Debug\net9.0\Dima.Core.dll
+C:\dev\POC Neodent\Dima.core\bin\Debug\net9.0\Dima.Core.pdb
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\Dima.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\Dima.Core.AssemblyInfoInputs.cache
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\Dima.Core.AssemblyInfo.cs
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\Dima.Core.csproj.CoreCompileInputs.cache
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\Dima.Core.sourcelink.json
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\Dima.Core.dll
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\refint\Dima.Core.dll
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\Dima.Core.pdb
+C:\dev\POC Neodent\Dima.core\obj\Debug\net9.0\ref\Dima.Core.dll

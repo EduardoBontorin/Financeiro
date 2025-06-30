@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\Images\\dima.png",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\Images\\dima.png",
       "PackagePath": "staticwebassets\\Images\\dima.png"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\Images\\logo.png",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\Images\\logo.png",
       "PackagePath": "staticwebassets\\Images\\logo.png"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\appsettings.json",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\css\\app.css",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\favicon.png",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\icon-192.png",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\icon-512.png",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\index.html",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\dev\\Dima\\Dima.Web\\wwwroot\\manifest.webmanifest",
+      "Id": "C:\\dev\\POC Neodent\\Dima.Web\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
     },
     {

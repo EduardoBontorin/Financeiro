@@ -24,7 +24,7 @@ namespace Dima.Web.Handlers
 
         public async Task<PagedResponse<List<Category>>> GetAllAsync(GetAllCategoriesRequest request)
         {
-            return await _client.GetFromJsonAsync<PagedResponse<List<Category>>>("v1/categories") ?? new PagedResponse<List<Category>>(null, 400, "Falha ao Obter lista de categorias"); ;
+            return await _client.GetFromJsonAsync<PagedResponse<List<Category>>>("v1/categories") ?? new PagedResponse<List<Category>>(null, 400, "Falha ao Obter lista de categorias");
         }
 
         public async Task<Response<Category?>> GetByIdAsync(GetCategoryByIdRequest request)

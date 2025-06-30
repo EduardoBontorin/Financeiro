@@ -1,7 +1,7 @@
-C:\dev\Dima\Dima.Web\wwwroot\css\app.css
-C:\dev\Dima\Dima.Web\wwwroot\index.html
-C:\dev\Dima\Dima.Web\wwwroot\appsettings.json
-C:\dev\Dima\Dima.Web\wwwroot\manifest.webmanifest
+C:\dev\POC Neodent\Dima.Web\wwwroot\css\app.css
+C:\dev\POC Neodent\Dima.Web\wwwroot\index.html
+C:\dev\POC Neodent\Dima.Web\wwwroot\appsettings.json
+C:\dev\POC Neodent\Dima.Web\wwwroot\manifest.webmanifest
 wwwroot\appsettings.json
 wwwroot\css\app.css
 wwwroot\favicon.png
