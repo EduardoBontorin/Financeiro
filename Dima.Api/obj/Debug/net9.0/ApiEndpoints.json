@@ -756,6 +756,36 @@
     "Summary": "Obtem transa\u00E7\u00F5es a partir de um per\u00EDodo"
   },
   {
+    "ContainingType": "Dima.Api.Endpoints.Transactions.UpdateTransactionEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "v1/transactions/",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Dima.Core.Requests.Transactions.UpdateTransactionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Dima.Core.Responses.Response\u00601[[Dima.Core.Models.Transaction, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Transactions"
+    ],
+    "EndpointName": "Transactions: Update",
+    "Description": "Atualiza uma transa\u00E7\u00E3o",
+    "Summary": "Atualiza uma transa\u00E7\u00E3o"
+  },
+  {
     "ContainingType": "Dima.Api.Endpoints.Transactions.DeleteTransactionEndpoint",
     "Method": "HandleAsync",
     "RelativePath": "v1/transactions/{id}",
@@ -814,40 +844,5 @@
     "EndpointName": "Transactions: GetById",
     "Description": "Obtem uma transa\u00E7\u00E3o",
     "Summary": "Obtem uma transa\u00E7\u00E3o"
-  },
-  {
-    "ContainingType": "Dima.Api.Endpoints.Transactions.UpdateTransactionEndpoint",
-    "Method": "HandleAsync",
-    "RelativePath": "v1/transactions/{id}",
-    "HttpMethod": "PUT",
-    "IsController": false,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "Dima.Core.Requests.Transactions.UpdateTransactionRequest",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "System.Int64",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Dima.Core.Responses.Response\u00601[[Dima.Core.Models.Transaction, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "application/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "Tags": [
-      "Transactions"
-    ],
-    "EndpointName": "Transactions: Update",
-    "Description": "Atualiza uma transa\u00E7\u00E3o",
-    "Summary": "Atualiza uma transa\u00E7\u00E3o"
   }
 ]
