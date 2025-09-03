@@ -799,6 +799,36 @@
             }
           }
         }
+      },
+      "put": {
+        "tags": [
+          "Transactions"
+        ],
+        "summary": "Atualiza uma transação",
+        "description": "Atualiza uma transação",
+        "operationId": "Transactions: Update",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Dima.Core.Requests.Transactions.UpdateTransactionRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Dima.Core.Responses.Response`1[[Dima.Core.Models.Transaction, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
+                }
+              }
+            }
+          }
+        }
       }
     },
     "/v1/transactions/{id}": {
@@ -851,47 +881,6 @@
             }
           }
         ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Dima.Core.Responses.Response`1[[Dima.Core.Models.Transaction, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
-                }
-              }
-            }
-          }
-        }
-      },
-      "put": {
-        "tags": [
-          "Transactions"
-        ],
-        "summary": "Atualiza uma transação",
-        "description": "Atualiza uma transação",
-        "operationId": "Transactions: Update",
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int64"
-            }
-          }
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Dima.Core.Requests.Transactions.UpdateTransactionRequest"
-              }
-            }
-          },
-          "required": true
-        },
         "responses": {
           "200": {
             "description": "OK",

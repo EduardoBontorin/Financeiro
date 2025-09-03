@@ -52,7 +52,6 @@ namespace Dima.Web.Pages.Categories
 
         #region Methods
 
-       
         public async void OnDeleteButtonClickedAsync(long id,string title) 
         {
             var result = await DialogService.ShowMessageBox("Atenção !",$"Deseja remover a categoria {title} ?",yesText:"Excluir",cancelText:"Cancelar");
