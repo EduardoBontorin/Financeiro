@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\POC Neodent\\dima.Api\\Dima.Api.csproj": {}
+    "C:\\dev\\Financeiro\\Dima.Api\\Dima.Api.csproj": {}
   },
   "projects": {
-    "C:\\dev\\POC Neodent\\dima.Api\\Dima.Api.csproj": {
+    "C:\\dev\\Financeiro\\Dima.Api\\Dima.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\POC Neodent\\dima.Api\\Dima.Api.csproj",
+        "projectUniqueName": "C:\\dev\\Financeiro\\Dima.Api\\Dima.Api.csproj",
         "projectName": "Dima.Api",
-        "projectPath": "C:\\dev\\POC Neodent\\dima.Api\\Dima.Api.csproj",
-        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\POC Neodent\\dima.Api\\obj\\",
+        "projectPath": "C:\\dev\\Financeiro\\Dima.Api\\Dima.Api.csproj",
+        "packagesPath": "C:\\Users\\EduardoBontorin\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\Financeiro\\Dima.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EduardoBontorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\dev\\POC Neodent\\Dima.core\\Dima.Core.csproj": {
-                "projectPath": "C:\\dev\\POC Neodent\\Dima.core\\Dima.Core.csproj"
+              "C:\\dev\\Financeiro\\Dima.core\\Dima.Core.csproj": {
+                "projectPath": "C:\\dev\\Financeiro\\Dima.core\\Dima.Core.csproj"
               }
             }
           }
@@ -49,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -97,24 +97,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\dev\\POC Neodent\\Dima.core\\Dima.Core.csproj": {
+    "C:\\dev\\Financeiro\\Dima.core\\Dima.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\POC Neodent\\Dima.core\\Dima.Core.csproj",
+        "projectUniqueName": "C:\\dev\\Financeiro\\Dima.core\\Dima.Core.csproj",
         "projectName": "Dima.Core",
-        "projectPath": "C:\\dev\\POC Neodent\\Dima.core\\Dima.Core.csproj",
-        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\POC Neodent\\Dima.core\\obj\\",
+        "projectPath": "C:\\dev\\Financeiro\\Dima.core\\Dima.Core.csproj",
+        "packagesPath": "C:\\Users\\EduardoBontorin\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\Financeiro\\Dima.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EduardoBontorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -142,7 +142,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -163,7 +163,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
