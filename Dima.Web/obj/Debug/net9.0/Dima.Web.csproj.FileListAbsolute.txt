@@ -1078,6 +1078,7 @@ C:\dev\Dima\Dima.Web\bin\Debug\net9.0\icudt.dat
 C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\ul3r44o4rj-oh1zvcfom8.gz
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\dev\Dima\Dima.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Core.umqppuvrid.pdb
 C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Core.4ssvc9l63r.wasm
@@ -2205,6 +2206,15 @@ C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\ewuwfwjju7-qb5qfnmijt.gz
 C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\7ot3rpcauk-7lkg0d0wbu.gz
 C:\dev\Dima\Dima.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Core.7lkg0d0wbu.pdb
+C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Core.qb5qfnmijt.wasm
+C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Core.7lkg0d0wbu.pdb.gz
+C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Core.qb5qfnmijt.wasm.gz
+C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\ewuwfwjju7-qb5qfnmijt.gz
+C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\7ot3rpcauk-7lkg0d0wbu.gz
+C:\dev\Dima\Dima.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.3lryhk4r7k.pdb
 C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.rcpqwrkrqy.wasm
 C:\dev\Dima\Dima.Web\bin\Debug\net9.0\wwwroot\_framework\Dima.Web.3lryhk4r7k.pdb.gz
@@ -2215,6 +2225,9 @@ C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\mvidceechf-ul7fh20642.gz
 C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\70vn0rd6h7-qwyq6nb01r.gz
 C:\dev\Dima\Dima.Web\obj\Debug\net9.0\compressed\1yfefky1x0-gfwx0ve6fd.gz
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)

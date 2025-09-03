@@ -3,7 +3,11 @@
   "resources": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "hash": "sha256-qWQUhQwWavzcNm+ThbPHGM3WHzV3+xP3lk4ZBcAanTw=",
+=======
+    "hash": "sha256-XcaYZhnh0E+58FwE1bjwfbsAjh2gB4WlrOCIDgeZxmY=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
     "hash": "sha256-XcaYZhnh0E+58FwE1bjwfbsAjh2gB4WlrOCIDgeZxmY=",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -218,6 +222,7 @@
       "icudt.oh1zvcfom8.dat": "icudt.dat",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Dima.Core.dgg23j80ms.wasm": "Dima.Core.wasm",
       "Dima.Core.y8v9elvca9.pdb": "Dima.Core.pdb",
       "Dima.Web.ty2tpbcmpr.wasm": "Dima.Web.wasm",
@@ -225,11 +230,16 @@
 =======
 =======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
       "Dima.Core.qb5qfnmijt.wasm": "Dima.Core.wasm",
       "Dima.Core.7lkg0d0wbu.pdb": "Dima.Core.pdb",
       "Dima.Web.rcpqwrkrqy.wasm": "Dima.Web.wasm",
       "Dima.Web.3lryhk4r7k.pdb": "Dima.Web.pdb"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -451,12 +461,21 @@
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Dima.Core.dgg23j80ms.wasm": "sha256-M7H4v+j6nrOS/+9VSvpbp1AUjkBZki5NocjDW76ZwnU=",
       "Dima.Web.ty2tpbcmpr.wasm": "sha256-RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag="
     },
     "pdb": {
       "Dima.Core.y8v9elvca9.pdb": "sha256-cjhJyENee3UhfdftwJp1n3yhK8Gx4GV81Ll0EUBpq4c=",
       "Dima.Web.wb4trailhy.pdb": "sha256-LH4mcj8X25YmrGMIpbKPv17w2RHSa69QXRu89x4aZBk="
+=======
+      "Dima.Core.qb5qfnmijt.wasm": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=",
+      "Dima.Web.rcpqwrkrqy.wasm": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+    },
+    "pdb": {
+      "Dima.Core.7lkg0d0wbu.pdb": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=",
+      "Dima.Web.3lryhk4r7k.pdb": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Dima.Core.qb5qfnmijt.wasm": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=",
       "Dima.Web.rcpqwrkrqy.wasm": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="

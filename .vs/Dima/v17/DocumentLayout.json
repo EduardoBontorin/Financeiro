@@ -4,6 +4,7 @@
   "Documents": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\financeiro\\dima.api\\endpoints\\locais\\getalllocaisendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\endpoints\\locais\\getalllocaisendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +16,17 @@
       "AbsoluteMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|c:\\dev\\financeiro\\dima.api\\common\\api\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{512E8006-176F-4D79-9E53-902FB97F6D98}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\common\\api\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
       "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\pages\\transactions\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\transactions\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|c:\\dev\\dima\\dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{904B17DF-6996-4094-B98C-5ACE0824C080}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
     }
   ],
@@ -49,6 +55,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "CreateLocalEndpoint.cs",
               "DocumentMoniker": "C:\\dev\\Financeiro\\Dima.Api\\Endpoints\\Locais\\CreateLocalEndpoint.cs",
@@ -71,6 +78,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T21:59:22.289Z"
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
               "DocumentIndex": 1,
               "Title": "TransactionHandler.cs",
               "DocumentMoniker": "C:\\dev\\Dima\\Dima.Web\\Handlers\\TransactionHandler.cs",

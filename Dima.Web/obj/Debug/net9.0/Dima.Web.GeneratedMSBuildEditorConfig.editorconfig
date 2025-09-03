@@ -85,12 +85,15 @@ build_metadata.AdditionalFiles.CssScope =
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/dev/Financeiro/Dima.Web/Pages/Transactions/Edit.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25zXEVkaXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/Financeiro/Dima.Web/Pages/Transactions/List.razor]
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
 [C:/dev/Dima/Dima.Web/Pages/Transactions/List.razor]

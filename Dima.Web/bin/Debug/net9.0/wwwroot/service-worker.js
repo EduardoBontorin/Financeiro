@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Manifest version: gMH2vsPl */
+=======
+/* Manifest version: rimy06UI */
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
 /* Manifest version: rimy06UI */
 >>>>>>> parent of 23e3052 (ajustado edit transaction)

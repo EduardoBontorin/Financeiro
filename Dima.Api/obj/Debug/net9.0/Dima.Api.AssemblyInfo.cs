@@ -17,7 +17,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871de276fc3cb3b61f5fd7561a5d7626d4bfe81f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ec85617f9faace4c4156f14cf894c486cb7bba")]
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ec85617f9faace4c4156f14cf894c486cb7bba")]
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
