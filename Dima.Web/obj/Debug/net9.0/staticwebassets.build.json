@@ -1,7 +1,11 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "+oImKDeWvqpW53ZMEp97zWeGwzKhI1sofctfcPB0qNU=",
+=======
+  "Hash": "kk2JI0UC+8maU7FKydC1kvGh7RQxvX7uVWZ5SOzgDVM=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
   "Hash": "kk2JI0UC+8maU7FKydC1kvGh7RQxvX7uVWZ5SOzgDVM=",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -36,8 +40,13 @@
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "ug9704ltej",
       "Integrity": "rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8=",
+=======
+      "Fingerprint": "ul7fh20642",
+      "Integrity": "vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "ul7fh20642",
       "Integrity": "vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=",
@@ -83,8 +92,13 @@
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "y8v9elvca9",
       "Integrity": "cjhJyENee3UhfdftwJp1n3yhK8Gx4GV81Ll0EUBpq4c=",
+=======
+      "Fingerprint": "7lkg0d0wbu",
+      "Integrity": "xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "7lkg0d0wbu",
       "Integrity": "xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=",
@@ -109,8 +123,13 @@
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "dgg23j80ms",
       "Integrity": "M7H4v+j6nrOS/+9VSvpbp1AUjkBZki5NocjDW76ZwnU=",
+=======
+      "Fingerprint": "qb5qfnmijt",
+      "Integrity": "dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "qb5qfnmijt",
       "Integrity": "dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=",
@@ -135,8 +154,13 @@
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "wb4trailhy",
       "Integrity": "LH4mcj8X25YmrGMIpbKPv17w2RHSa69QXRu89x4aZBk=",
+=======
+      "Fingerprint": "3lryhk4r7k",
+      "Integrity": "J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "3lryhk4r7k",
       "Integrity": "J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=",
@@ -161,8 +185,13 @@
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "ty2tpbcmpr",
       "Integrity": "RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag=",
+=======
+      "Fingerprint": "rcpqwrkrqy",
+      "Integrity": "JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "rcpqwrkrqy",
       "Integrity": "JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=",
@@ -4751,7 +4780,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-q3nacjw4h9.gz",
+=======
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -4769,8 +4802,13 @@
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "1eba84jjkx",
       "Integrity": "KeAzBReA3kAOh/uPZKxe0RxicJLSs62UOhNytHlYx4I=",
+=======
+      "Fingerprint": "hhbz99k9z3",
+      "Integrity": "5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "hhbz99k9z3",
       "Integrity": "5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=",
@@ -5243,7 +5281,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-wb4trailhy.gz",
+=======
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -5252,7 +5294,11 @@
       "ContentRoot": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "RelativePath": "_framework/Dima.Web#[.{fingerprint=wb4trailhy}]!.pdb.gz",
+=======
+      "RelativePath": "_framework/Dima.Web#[.{fingerprint=3lryhk4r7k}]!.pdb.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "RelativePath": "_framework/Dima.Web#[.{fingerprint=3lryhk4r7k}]!.pdb.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -5265,8 +5311,13 @@
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "i8a9syqpvh",
       "Integrity": "7h+zXR0tk3+NA+DtdcqA52WRukuBYK3582KanNU0dcQ=",
+=======
+      "Fingerprint": "hnbkqrz53a",
+      "Integrity": "A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "hnbkqrz53a",
       "Integrity": "A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=",
@@ -5319,7 +5370,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-lzstpc0j6j.gz",
+=======
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -5428,7 +5483,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-y8v9elvca9.gz",
+=======
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -5437,7 +5496,11 @@
       "ContentRoot": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "RelativePath": "_framework/Dima.Core#[.{fingerprint=y8v9elvca9}]!.pdb.gz",
+=======
+      "RelativePath": "_framework/Dima.Core#[.{fingerprint=7lkg0d0wbu}]!.pdb.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "RelativePath": "_framework/Dima.Core#[.{fingerprint=7lkg0d0wbu}]!.pdb.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -5450,8 +5513,13 @@
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "scgaatguy6",
       "Integrity": "TM9SlcYq1RIk8fDxvV8Mdh6tkVRy3uF5CoyD1CXEZnw=",
+=======
+      "Fingerprint": "glxv8bo736",
+      "Integrity": "LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "glxv8bo736",
       "Integrity": "LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=",
@@ -6239,7 +6307,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-dgg23j80ms.gz",
+=======
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-qb5qfnmijt.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\ewuwfwjju7-qb5qfnmijt.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -6248,7 +6320,11 @@
       "ContentRoot": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "RelativePath": "_framework/Dima.Core#[.{fingerprint=dgg23j80ms}]!.wasm.gz",
+=======
+      "RelativePath": "_framework/Dima.Core#[.{fingerprint=qb5qfnmijt}]!.wasm.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "RelativePath": "_framework/Dima.Core#[.{fingerprint=qb5qfnmijt}]!.wasm.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -6261,8 +6337,13 @@
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "3km95rcwbg",
       "Integrity": "jfQhaiFuA9SFCN1Qk2/xsFjPvC8LM3PTKnMVLvhe+yQ=",
+=======
+      "Fingerprint": "zctodggqoi",
+      "Integrity": "o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "zctodggqoi",
       "Integrity": "o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=",
@@ -7386,7 +7467,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ug9704ltej.gz",
+=======
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -7404,8 +7489,13 @@
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "1cjk3k1ift",
       "Integrity": "Hx6N3czmTjCpHUSG/eBExc08MV8YNeQsOy9LKJCPvfY=",
+=======
+      "Fingerprint": "sijgz759wn",
+      "Integrity": "1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "sijgz759wn",
       "Integrity": "1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=",
@@ -8886,7 +8976,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-ty2tpbcmpr.gz",
+=======
+      "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Identity": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -8895,7 +8989,11 @@
       "ContentRoot": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "RelativePath": "_framework/Dima.Web#[.{fingerprint=ty2tpbcmpr}]!.wasm.gz",
+=======
+      "RelativePath": "_framework/Dima.Web#[.{fingerprint=rcpqwrkrqy}]!.wasm.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "RelativePath": "_framework/Dima.Web#[.{fingerprint=rcpqwrkrqy}]!.wasm.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -8908,8 +9006,13 @@
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "vo3k7go9e1",
       "Integrity": "UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764=",
+=======
+      "Fingerprint": "sh8rayekey",
+      "Integrity": "QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "sh8rayekey",
       "Integrity": "QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=",
@@ -9270,8 +9373,13 @@
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "lzstpc0j6j",
       "Integrity": "/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk=",
+=======
+      "Fingerprint": "qwyq6nb01r",
+      "Integrity": "OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "qwyq6nb01r",
       "Integrity": "OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=",
@@ -9296,8 +9404,13 @@
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Fingerprint": "q3nacjw4h9",
       "Integrity": "dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs=",
+=======
+      "Fingerprint": "gfwx0ve6fd",
+      "Integrity": "bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Fingerprint": "gfwx0ve6fd",
       "Integrity": "bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=",
@@ -10081,11 +10194,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
         },
@@ -10103,7 +10224,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8="
+=======
+          "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10113,7 +10238,11 @@
     {
       "Route": "_framework/blazor.boot.json",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ug9704ltej.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10122,7 +10251,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000077411364"
+=======
+          "Quality": "0.000077429346"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000077429346"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10136,6 +10269,7 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "12917"
         },
         {
@@ -10145,6 +10279,17 @@
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "12914"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:26 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "12914"
         },
@@ -10176,7 +10321,11 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "W/\"rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8=\""
+=======
+          "Value": "W/\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "W/\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10186,7 +10335,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8="
+=======
+          "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10196,7 +10349,11 @@
     {
       "Route": "_framework/blazor.boot.json.gz",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ug9704ltej.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\mvidceechf-ul7fh20642.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10209,7 +10366,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "12917"
+=======
+          "Value": "12914"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "12914"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10221,11 +10382,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"Hx6N3czmTjCpHUSG/eBExc08MV8YNeQsOy9LKJCPvfY=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:26 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
         },
@@ -10251,7 +10420,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-Hx6N3czmTjCpHUSG/eBExc08MV8YNeQsOy9LKJCPvfY="
+=======
+          "Value": "sha256-1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -10396,6 +10569,7 @@
       ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Route": "_framework/Dima.Core.dgg23j80ms.wasm",
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.wasm",
@@ -11076,6 +11250,9 @@
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
 =======
       "Route": "_framework/Dima.Core.pdb",
+=======
+      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11101,6 +11278,170 @@
         },
         {
           "Name": "Cache-Control",
+<<<<<<< HEAD
+=======
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lkg0d0wbu"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000108073057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9252"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lkg0d0wbu"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\7ot3rpcauk-7lkg0d0wbu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lkg0d0wbu"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Core.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Value": "no-cache"
         }
       ],
@@ -11522,7 +11863,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "79384"
+=======
+          "Value": "66152"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "66152"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -11534,11 +11879,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"LH4mcj8X25YmrGMIpbKPv17w2RHSa69QXRu89x4aZBk=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:32 GMT"
+=======
+          "Value": "\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
         },
@@ -11568,14 +11921,22 @@
         {
           "Name": "integrity",
           "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ]
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.pdb",
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-wb4trailhy.gz",
+=======
+      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.3lryhk4r7k.pdb",
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
@@ -11585,7 +11946,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000017169445"
+=======
+          "Quality": "0.000019970843"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000019970843"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -11599,6 +11964,7 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "58242"
         },
         {
@@ -11608,6 +11974,17 @@
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "50072"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "50072"
         },
@@ -11639,7 +12016,11 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "W/\"LH4mcj8X25YmrGMIpbKPv17w2RHSa69QXRu89x4aZBk=\""
+=======
+          "Value": "W/\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "W/\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -11661,14 +12042,22 @@
         {
           "Name": "integrity",
           "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ]
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.pdb.gz",
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-wb4trailhy.gz",
+=======
+      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
@@ -11682,7 +12071,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "58242"
+=======
+          "Value": "50072"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "50072"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -11694,11 +12087,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"7h+zXR0tk3+NA+DtdcqA52WRukuBYK3582KanNU0dcQ=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
         },
@@ -11736,14 +12137,22 @@
         {
           "Name": "integrity",
           "Value": "sha256-A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys="
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ]
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.ty2tpbcmpr.wasm",
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.wasm",
+=======
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.pdb",
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dima.Web.pdb",
@@ -11756,6 +12165,7 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "129301"
         },
@@ -11775,6 +12185,8 @@
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Value": "66152"
         },
         {
@@ -11792,11 +12204,15 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ],
       "EndpointProperties": [
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Name": "fingerprint",
           "Value": "ty2tpbcmpr"
@@ -11812,13 +12228,22 @@
           "Name": "integrity",
           "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Name": "integrity",
+          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ]
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.ty2tpbcmpr.wasm",
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-ty2tpbcmpr.gz",
+=======
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.pdb",
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
@@ -11828,7 +12253,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000021209807"
+=======
+          "Quality": "0.000019970843"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000019970843"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -11841,6 +12270,7 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "47147"
         },
@@ -11856,6 +12286,8 @@
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Value": "50072"
         },
         {
@@ -11869,6 +12301,9 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         },
         {
@@ -11882,22 +12317,29 @@
         {
           "Name": "Content-Type",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "application/wasm"
         },
         {
           "Name": "ETag",
           "Value": "W/\"RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag=\""
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
           "Value": "W/\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ],
       "EndpointProperties": [
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Name": "fingerprint",
           "Value": "ty2tpbcmpr"
@@ -11913,13 +12355,22 @@
           "Name": "integrity",
           "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Name": "integrity",
+          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ]
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.ty2tpbcmpr.wasm.gz",
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-ty2tpbcmpr.gz",
+=======
+      "Route": "_framework/Dima.Web.pdb.gz",
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.pdb.gz",
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\6rm4iddht2-3lryhk4r7k.gz",
@@ -11933,8 +12384,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "47147"
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Value": "50072"
         },
         {
@@ -11981,6 +12435,9 @@
         {
           "Name": "Content-Length",
           "Value": "109333"
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         },
         {
@@ -11990,12 +12447,15 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Value": "\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
         },
         {
@@ -12109,6 +12569,9 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         },
         {
@@ -12128,7 +12591,11 @@
         {
           "Name": "fingerprint",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "ty2tpbcmpr"
+=======
+          "Value": "rcpqwrkrqy"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "rcpqwrkrqy"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12140,7 +12607,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764="
+=======
+          "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12159,7 +12630,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "129301"
+=======
+          "Value": "109333"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "109333"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12171,11 +12646,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
         },
@@ -12193,7 +12676,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag="
+=======
+          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12203,7 +12690,11 @@
     {
       "Route": "_framework/Dima.Web.wasm",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-ty2tpbcmpr.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12212,7 +12703,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000021209807"
+=======
+          "Quality": "0.000024226567"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000024226567"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12226,6 +12721,7 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "47147"
         },
         {
@@ -12235,6 +12731,17 @@
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "41276"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "41276"
         },
@@ -12266,7 +12773,11 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "W/\"RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag=\""
+=======
+          "Value": "W/\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "W/\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12276,7 +12787,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag="
+=======
+          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12286,7 +12801,11 @@
     {
       "Route": "_framework/Dima.Web.wasm.gz",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-ty2tpbcmpr.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\xujp3esvxf-rcpqwrkrqy.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12299,7 +12818,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "47147"
+=======
+          "Value": "41276"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "41276"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -12311,11 +12834,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
         },
@@ -12340,6 +12871,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "sha256-UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764="
         }
@@ -12503,6 +13035,9 @@
         {
           "Name": "integrity",
           "Value": "sha256-7h+zXR0tk3+NA+DtdcqA52WRukuBYK3582KanNU0dcQ="
+=======
+          "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75800,7 +76335,11 @@
     {
       "Route": "service-worker.js",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-lzstpc0j6j.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75827,7 +76366,11 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75851,7 +76394,11 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "W/\"/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk=\""
+=======
+          "Value": "W/\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "W/\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75861,7 +76408,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk="
+=======
+          "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75888,7 +76439,11 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk=\""
+=======
+          "Value": "\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75906,7 +76461,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk="
+=======
+          "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75916,7 +76475,11 @@
     {
       "Route": "service-worker.js.gz",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-lzstpc0j6j.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\70vn0rd6h7-qwyq6nb01r.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75941,7 +76504,11 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75969,7 +76536,11 @@
     {
       "Route": "service-worker-assets.js",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-q3nacjw4h9.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75978,7 +76549,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000084652501"
+=======
+          "Quality": "0.000084681175"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000084681175"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -75992,6 +76567,7 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "11812"
         },
         {
@@ -76001,6 +76577,17 @@
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "11808"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "11808"
         },
@@ -76032,7 +76619,11 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "W/\"dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs=\""
+=======
+          "Value": "W/\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "W/\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -76042,7 +76633,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs="
+=======
+          "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -76069,11 +76664,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
         },
@@ -76091,7 +76694,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs="
+=======
+          "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -76101,7 +76708,11 @@
     {
       "Route": "service-worker-assets.js.gz",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "C:\\dev\\POC Neodent\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-q3nacjw4h9.gz",
+=======
+      "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "C:\\dev\\Dima\\Dima.Web\\obj\\Debug\\net9.0\\compressed\\1yfefky1x0-gfwx0ve6fd.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -76114,7 +76725,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "11812"
+=======
+          "Value": "11808"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "11808"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -76126,11 +76741,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"KeAzBReA3kAOh/uPZKxe0RxicJLSs62UOhNytHlYx4I=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
         },
@@ -76156,7 +76779,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-KeAzBReA3kAOh/uPZKxe0RxicJLSs62UOhNytHlYx4I="
+=======
+          "Value": "sha256-5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)

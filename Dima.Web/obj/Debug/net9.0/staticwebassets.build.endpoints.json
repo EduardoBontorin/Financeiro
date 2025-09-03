@@ -669,6 +669,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Core.dgg23j80ms.wasm",
       "AssetFile": "_framework/Dima.Core.dgg23j80ms.wasm",
       "Selectors": [],
@@ -1852,6 +1853,682 @@
     {
       "Route": "_framework/Dima.Web.3lryhk4r7k.pdb",
       "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb",
+=======
+      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb",
+      "AssetFile": "_framework/Dima.Core.7lkg0d0wbu.pdb",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+=======
+          "Value": "\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:13 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "3lryhk4r7k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Web.pdb"
+=======
+          "Value": "7lkg0d0wbu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb",
+      "AssetFile": "_framework/Dima.Core.7lkg0d0wbu.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000108073057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lkg0d0wbu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.7lkg0d0wbu.pdb.gz",
+      "AssetFile": "_framework/Dima.Core.7lkg0d0wbu.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lkg0d0wbu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.pdb.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.pdb",
+      "AssetFile": "_framework/Dima.Core.7lkg0d0wbu.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        }
+      ]
+    },
+    {
+<<<<<<< HEAD
+      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb",
+      "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
+=======
+      "Route": "_framework/Dima.Core.pdb",
+      "AssetFile": "_framework/Dima.Core.7lkg0d0wbu.pdb.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+<<<<<<< HEAD
+          "Quality": "0.000019970843"
+=======
+          "Quality": "0.000108073057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xd/OyMc19U+V2UFuxC6wfP81cDzhc2LYopu4Ho9Cmuo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.pdb.gz",
+      "AssetFile": "_framework/Dima.Core.7lkg0d0wbu.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPAehsNiQBWzdLyOK77KL+aQaZjEuI1CbLb8IRo/2NA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.qb5qfnmijt.wasm",
+      "AssetFile": "_framework/Dima.Core.qb5qfnmijt.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qb5qfnmijt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.qb5qfnmijt.wasm",
+      "AssetFile": "_framework/Dima.Core.qb5qfnmijt.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000145095763"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "50072"
+=======
+          "Value": "6891"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+=======
+          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "3lryhk4r7k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+=======
+          "Value": "qb5qfnmijt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.wasm"
+        }
+      ]
+    },
+    {
+<<<<<<< HEAD
+      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
+      "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
+=======
+      "Route": "_framework/Dima.Core.qb5qfnmijt.wasm.gz",
+      "AssetFile": "_framework/Dima.Core.qb5qfnmijt.wasm.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "50072"
+=======
+          "Value": "6891"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+=======
+          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "3lryhk4r7k"
+        },
+        {
+          "Name": "integrity",
+=======
+          "Value": "qb5qfnmijt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dima.Core.wasm.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.wasm",
+      "AssetFile": "_framework/Dima.Core.qb5qfnmijt.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.wasm",
+      "AssetFile": "_framework/Dima.Core.qb5qfnmijt.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000145095763"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dqhq6aJYyKNXwhHc2yRx+EKMhT+E9IOMg/vs4dFCbcE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Core.wasm.gz",
+      "AssetFile": "_framework/Dima.Core.qb5qfnmijt.wasm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:44:23 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5ds4jso4fsGyT0FGXf1We+oADCOcJ2s/oJIdziX/vQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dima.Web.3lryhk4r7k.pdb",
+      "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2002,6 +2679,7 @@
         },
         {
           "Name": "integrity",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Value": "sha256-A3KmvIsNyln2l+Z6NYSTQ154UMlaWa2On1Op4mKGQys="
         },
         {
@@ -2013,8 +2691,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.ty2tpbcmpr.wasm",
       "AssetFile": "_framework/Dima.Web.ty2tpbcmpr.wasm",
+=======
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.pdb",
       "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb",
@@ -2032,7 +2715,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "129301"
+=======
+          "Value": "66152"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "66152"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2043,6 +2730,7 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "\"RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag=\""
         },
@@ -2056,10 +2744,18 @@
           "Name": "Last-Modified",
           "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Value": "\"J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ],
       "EndpointProperties": [
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Name": "fingerprint",
           "Value": "ty2tpbcmpr"
@@ -2075,13 +2771,22 @@
           "Name": "integrity",
           "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Name": "integrity",
+          "Value": "sha256-J0F14waigv1dsYPjJzHWwnfCd9hrTwT1QUT0mmbIxuY="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ]
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.ty2tpbcmpr.wasm",
       "AssetFile": "_framework/Dima.Web.ty2tpbcmpr.wasm.gz",
+=======
+      "Route": "_framework/Dima.Web.pdb",
+      "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.pdb",
       "AssetFile": "_framework/Dima.Web.3lryhk4r7k.pdb.gz",
@@ -2091,8 +2796,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000021209807"
 =======
+=======
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
           "Quality": "0.000019970843"
         }
       ],
@@ -2239,6 +2947,9 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
           "Quality": "0.000024226567"
+<<<<<<< HEAD
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ],
@@ -2258,7 +2969,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "47147"
+=======
+          "Value": "41276"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "41276"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2269,6 +2984,7 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "\"UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764=\""
         },
@@ -2290,6 +3006,17 @@
           "Name": "Last-Modified",
           "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         },
         {
           "Name": "Vary",
@@ -2300,11 +3027,19 @@
         {
           "Name": "fingerprint",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "ty2tpbcmpr"
         },
         {
           "Name": "integrity",
           "Value": "sha256-RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag="
+=======
+          "Value": "rcpqwrkrqy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "rcpqwrkrqy"
         },
@@ -2321,8 +3056,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Route": "_framework/Dima.Web.ty2tpbcmpr.wasm.gz",
       "AssetFile": "_framework/Dima.Web.ty2tpbcmpr.wasm.gz",
+=======
+      "Route": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
+      "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "Route": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
       "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
@@ -2344,7 +3084,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "47147"
+=======
+          "Value": "41276"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "41276"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2356,11 +3100,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
         },
@@ -2378,11 +3130,19 @@
         {
           "Name": "fingerprint",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "ty2tpbcmpr"
         },
         {
           "Name": "integrity",
           "Value": "sha256-UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764="
+=======
+          "Value": "rcpqwrkrqy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "rcpqwrkrqy"
         },
@@ -2400,7 +3160,11 @@
     {
       "Route": "_framework/Dima.Web.wasm",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "_framework/Dima.Web.ty2tpbcmpr.wasm",
+=======
+      "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2417,7 +3181,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "129301"
+=======
+          "Value": "109333"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "109333"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2428,6 +3196,7 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "\"RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag=\""
         },
@@ -2441,13 +3210,24 @@
           "Name": "Last-Modified",
           "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Value": "\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:07:59 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag="
+=======
+          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2457,7 +3237,11 @@
     {
       "Route": "_framework/Dima.Web.wasm",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "_framework/Dima.Web.ty2tpbcmpr.wasm.gz",
+=======
+      "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2466,7 +3250,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000021209807"
+=======
+          "Quality": "0.000024226567"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000024226567"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2488,7 +3276,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "47147"
+=======
+          "Value": "41276"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "41276"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2499,6 +3291,7 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "\"UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764=\""
         },
@@ -2520,6 +3313,17 @@
           "Name": "Last-Modified",
           "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         },
         {
           "Name": "Vary",
@@ -2530,7 +3334,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-RbndbkSKVEdShNklHhcENiljWs1cO4Gel7dtlHam9ag="
+=======
+          "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-JZEJeWoI9kzVPPBMHf09V3uvvCNNzEXcVd62O43IXOI="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2540,7 +3348,11 @@
     {
       "Route": "_framework/Dima.Web.wasm.gz",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AssetFile": "_framework/Dima.Web.ty2tpbcmpr.wasm.gz",
+=======
+      "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
       "AssetFile": "_framework/Dima.Web.rcpqwrkrqy.wasm.gz",
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2561,7 +3373,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "47147"
+=======
+          "Value": "41276"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "41276"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -2573,11 +3389,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4=\""
         },
@@ -2594,6 +3418,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "sha256-UUkIc5TzWcPmZNci7i5JAW5hv09Wgl33RT+R5YN9764="
         }
@@ -2757,6 +3582,9 @@
         {
           "Name": "label",
           "Value": "_framework/Dima.Web.pdb.gz"
+=======
+          "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-QKrsknPI1h6aAbSrd0UQcxX59bxk1PgKILt2OZRYIt4="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -61791,11 +62619,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
         },
@@ -61809,7 +62645,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8="
+=======
+          "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -61824,7 +62664,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000077411364"
+=======
+          "Quality": "0.000077429346"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000077429346"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -61846,7 +62690,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "12917"
+=======
+          "Value": "12914"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "12914"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -61857,6 +62705,7 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "\"Hx6N3czmTjCpHUSG/eBExc08MV8YNeQsOy9LKJCPvfY=\""
         },
@@ -61878,6 +62727,17 @@
           "Name": "Last-Modified",
           "Value": "Wed, 30 Apr 2025 21:01:26 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:26 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         },
         {
           "Name": "Vary",
@@ -61888,7 +62748,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-rkuTfpiT6vR1SinP6vpteFuU0hFCkVRRLYBsa2vWLX8="
+=======
+          "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-vrL6K8tmSkScY+bRTXGUFNTz+EjC2tAOTZrC4PLWqug="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -61915,7 +62779,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "12917"
+=======
+          "Value": "12914"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "12914"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -61927,11 +62795,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"Hx6N3czmTjCpHUSG/eBExc08MV8YNeQsOy9LKJCPvfY=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:34 GMT"
+=======
+          "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:01:26 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ=\""
         },
@@ -61949,7 +62825,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-Hx6N3czmTjCpHUSG/eBExc08MV8YNeQsOy9LKJCPvfY="
+=======
+          "Value": "sha256-1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-1NVe2exXmIBdiVh0YMSSg55xuHKTcWHnfW5ha5wrUQQ="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66221,7 +67101,11 @@
           "Name": "Content-Encoding",
           "Value": "gzip",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Quality": "0.000084652501"
+=======
+          "Quality": "0.000084681175"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Quality": "0.000084681175"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66243,7 +67127,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "11812"
+=======
+          "Value": "11808"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "11808"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66254,6 +67142,7 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
 <<<<<<< HEAD
           "Value": "\"KeAzBReA3kAOh/uPZKxe0RxicJLSs62UOhNytHlYx4I=\""
         },
@@ -66275,6 +67164,17 @@
           "Name": "Last-Modified",
           "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
+=======
+          "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
         },
         {
           "Name": "Vary",
@@ -66285,7 +67185,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs="
+=======
+          "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66316,11 +67220,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw=\""
         },
@@ -66334,7 +67246,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-dkvVwGNrvY4NsEMv64wr0SXyJcDWlvx+nlCJkJr4Jgs="
+=======
+          "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-bF4NDw8zpVZCdFUQfmDyEsMTrfzYTTyhXWHhq4xU4vw="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66361,7 +67277,11 @@
         {
           "Name": "Content-Length",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "11812"
+=======
+          "Value": "11808"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "11808"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66373,11 +67293,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"KeAzBReA3kAOh/uPZKxe0RxicJLSs62UOhNytHlYx4I=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so=\""
         },
@@ -66395,7 +67323,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-KeAzBReA3kAOh/uPZKxe0RxicJLSs62UOhNytHlYx4I="
+=======
+          "Value": "sha256-5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-5REc1UlaxVhRucHSQIHXG+PIZ4y5n29MlCeGQWiC8so="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66440,11 +67372,19 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "W/\"/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "W/\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "W/\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
         },
@@ -66462,7 +67402,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk="
+=======
+          "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66493,7 +67437,11 @@
         {
           "Name": "ETag",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "\"/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk=\""
+=======
+          "Value": "\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "\"OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M=\""
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66507,7 +67455,11 @@
         {
           "Name": "integrity",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "sha256-/55p7QoPHnWal9eNRzl2sIzlNFWSUWnmds42G5++ZNk="
+=======
+          "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "sha256-OmVUMKbXCv8QwHJKkvRdNlB20O4lAHEZccWsv5wtF5M="
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
@@ -66546,7 +67498,11 @@
         {
           "Name": "Last-Modified",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Value": "Mon, 30 Jun 2025 22:00:33 GMT"
+=======
+          "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
+>>>>>>> parent of 23e3052 (ajustado edit transaction)
 =======
           "Value": "Wed, 30 Apr 2025 21:08:00 GMT"
 >>>>>>> parent of 23e3052 (ajustado edit transaction)
