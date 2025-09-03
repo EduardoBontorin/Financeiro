@@ -1,0 +1,8 @@
+# Visual Studio and .NET Core generated files
+**/[Bb]in/
+**/[Oo]bj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

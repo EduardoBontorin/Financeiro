@@ -1,4 +1,0 @@
-C:\dev\POC Neodent\Dima.Web\wwwroot\css\app.css
-C:\dev\POC Neodent\Dima.Web\wwwroot\index.html
-C:\dev\POC Neodent\Dima.Web\wwwroot\appsettings.json
-C:\dev\POC Neodent\Dima.Web\wwwroot\manifest.webmanifest
