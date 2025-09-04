@@ -69,14 +69,15 @@ namespace Dima.Api.Handlers
             try 
             {
                 var transaction = new Transaction();
-                transaction = await context.Transactions.AsNoTracking().FirstOrDefaultAsync(x => x.Id == request.Id && x.UserId == request.UserId);
+                transaction = await context.Transactions.FirstOrDefaultAsync(x => x.Id == request.Id && x.UserId == request.UserId);
 
-                return transaction is null ? new Response<Transaction?>(null, 404, "Categoria não encontrada")
-                    : new Response<Transaction?>(transaction, 200, "Categoria encontrada");
+                return transaction is null 
+                    ? new Response<Transaction?>(null, 404, "Transação não encontrada")
+                    : new Response<Transaction?>(transaction);
             }
             catch (Exception ex)
             {
-                return new Response<Transaction?>(null, 500, $"Falha ao obter categoria, {ex.Message}");
+                return new Response<Transaction?>(null, 500, $"Falha ao obter transação, {ex.Message}");
             }
         }
 
@@ -101,6 +102,7 @@ namespace Dima.Api.Handlers
 
                 var transactions = await query.Skip((request.PageNumber - 1) * request.PageSize)
                     .Take(request.PageSize).ToListAsync();
+
                 var count = await query.CountAsync();
 
                 return new PagedResponse<List<Transaction>?>(transactions, count, request.PageNumber, request.PageSize);

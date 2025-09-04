@@ -12,7 +12,7 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
-Configuration.BackednUrl = builder.Configuration.GetValue<string>("BackendUrl") ?? string.Empty; //TODO: Adicionar excessão
+Configuration.BackednUrl = builder.Configuration.GetValue<string>("BackendUrl") ?? string.Empty; //TODO: Adicionar excessï¿½o
 
 builder.Services.AddScoped<CookieHandler>();
 builder.Services.AddAuthorizationCore();
@@ -25,17 +25,16 @@ builder.Services.AddMudServices();
 builder.Services.AddTransient<IAccountHandler, AccountHandler>();
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
 builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
-builder.Services.AddTransient<ILocalHandler, LocalHandler>();
-builder.Services.AddTransient<IApontamentoHandler, ApontamentoHandler>();
+
 
 builder.Services.AddLocalization();
 
-CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR"); //TODO: Para forçar o PT-br, se nao via pegar a do sistema.
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR"); //TODO: Para forcar o PT-br, se nao via pegar a do sistema.
 CultureInfo.DefaultThreadCurrentUICulture = new CultureInfo("pt-BR");
 
 builder.Services.AddHttpClient(Configuration.HttpClientName,opt => 
 {
-    opt.BaseAddress = new Uri(Configuration.BackednUrl);
+    opt.BaseAddress = new Uri(Configuration.BackednUrl); 
 }).AddHttpMessageHandler<CookieHandler>();
 
 await builder.Build().RunAsync();

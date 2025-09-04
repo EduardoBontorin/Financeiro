@@ -1,8 +1,6 @@
 ﻿using Dima.Api.Common.Api;
-using Dima.Api.Endpoints.Apontamentos;
 using Dima.Api.Endpoints.Categories;
 using Dima.Api.Endpoints.Identity;
-using Dima.Api.Endpoints.Locais;
 using Dima.Api.Endpoints.Transactions;
 using Dima.Api.Models;
 
@@ -45,18 +43,6 @@ namespace Dima.Api.Endpoints
               .MapEndpoint<GetTransactionByPeriodEndpoint>()
               .MapEndpoint<GetTransactionByIdEndpoint>()
               .MapEndpoint<UpdateTransactionEndpoint>();
-
-            endpoints.MapGroup("v1/Apontamento")
-              .WithTags("Apontamentos")
-              .RequireAuthorization()
-              .MapEndpoint<CreateApontamentoEndpoint>()
-              .MapEndpoint<GetAllApontamentosEndpoint>();
-
-            endpoints.MapGroup("v1/Local")
-              .WithTags("Locais")
-              .RequireAuthorization()
-              .MapEndpoint<CreateLocalEndpoint>()
-              .MapEndpoint<GetAllLocaisEndpoint>();
         }
 
         private static IEndpointRouteBuilder MapEndpoint<TEndpoint>(this IEndpointRouteBuilder app)

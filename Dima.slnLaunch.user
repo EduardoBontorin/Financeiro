@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "Dima.Api\\Dima.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Dima.Web\\Dima.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

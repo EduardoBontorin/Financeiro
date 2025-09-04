@@ -13,9 +13,7 @@ namespace Dima.Api.Data
     {
         public DbSet<Category> Categories { get; set; } = null!;
         public DbSet<Transaction> Transactions { get; set; } = null!;
-        public DbSet<Apontamento> Apontamentos { get; set; }
-        public DbSet<Local> Locais { get; set; }
-
+        
         //TODO: Adicionar mapping automático
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
